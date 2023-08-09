@@ -11,8 +11,12 @@
             "id": "554ba0614db62c8f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "FATEC/1º Semestre (2023.2)/AAG102 - Fundamentos de Administração Geral/Sincronize.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FATEC/1º Semestre (2023.2)/AAG102 - Fundamentos de Administração Geral/Sincronize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "FATEC/1º Semestre (2023.2)/AAG102 - Fundamentos de Administração Geral/Sincronize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "FATEC/1º Semestre (2023.2)/AAG102 - Fundamentos de Administração Geral/Sincronize.md"
+              }
             }
           }
         ]
@@ -140,9 +148,10 @@
   },
   "active": "554ba0614db62c8f",
   "lastOpenFiles": [
+    "FATEC/test",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "FATEC/1º Semestre (2023.2)/AAG102 - Fundamentos de Administração Geral/Untitled.md",
+    "FATEC/1º Semestre (2023.2)/AAG102 - Fundamentos de Administração Geral/Sincronize.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta",
     "FATEC/1º Semestre (2023.2)/LPO001 - Comunicação e Expressão",
     "FATEC/1º Semestre (2023.2)/LIN100 - Inglês I",
