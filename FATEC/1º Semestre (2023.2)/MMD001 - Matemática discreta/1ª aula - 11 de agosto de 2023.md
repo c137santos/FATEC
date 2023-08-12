@@ -38,5 +38,4 @@ Prof. Marcos Allan - marcosallan@atec.sp.gov.br
 * Atividade oficial ,será avisada uma semana antes.
 * Atividade bônus, será surpresa.
 * Certificados.
-* Programinhas - 10 programas
-onde os 5 primeiros até TI. 
+* Programinhas - 10 programas. 5 até 29/09/23, 5 até 08/12/23. 
