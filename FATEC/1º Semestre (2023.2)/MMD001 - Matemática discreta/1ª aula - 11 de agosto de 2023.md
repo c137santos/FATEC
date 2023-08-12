@@ -5,7 +5,8 @@ Prof. Marcos Allan - marcosallan@atec.sp.gov.br
 <ol>
   <li>Teoria de conjuntos
     <ol>
-      <li>Conceitos básicos</li>
+      <li>Introdução</li>
+      <li>Conceitos básicos de teoria dos conjuntos</li>
     </ol>
   </li>
   <li>Noção de Lógica e técnicas de demonstração</li>
@@ -44,3 +45,4 @@ Prof. Marcos Allan - marcosallan@atec.sp.gov.br
 - seleção de tópicos de matemática
 - essenciais para o estudo da ciência da computação
 - na formação básica e tecnológica, considerando que a maioria dos conceitos computacionais pertecem ao domínio do discreto, a matemática discreta (ou também chamada álgebra abstrata) é fortemente empregada.
+- Qualquer sistema de computador possui limitações finita como memória, número de instruções e e número de simbolos que pode tratar. 
