@@ -39,3 +39,8 @@ Prof. Marcos Allan - marcosallan@atec.sp.gov.br
 * Atividade bônus, será surpresa.
 * Certificados.
 * Programinhas - 10 programas. 5 até 29/09/23, 5 até 08/12/23. 
+
+<h2>Matemática discreta</h2>
+- seleção de tópicos de matemática
+- essenciais para o estudo da ciência da computação
+- na formação básica e tecnológica, considerando que a maioria dos conceitos computacionais pertecem ao domínio do discreto, a matemática discreta (ou também chamada álgebra abstrata) é fortemente empregada.
