@@ -38,7 +38,7 @@ Prof. Marcos Allan - marcosallan@atec.sp.gov.br
 
 * Atividade oficial ,será avisada uma semana antes.
 * Atividade bônus, será surpresa.
-* Certificados.
+* Certificados - 4 certificados, somatório valer 1 ponto
 * Programinhas - 10 programas. 5 até 29/09/23, 5 até 08/12/23. 
 
 <h2>Matemática discreta</h2>
