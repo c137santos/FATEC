@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b297e8e6c155690d",
@@ -183,7 +184,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc64bace451b4229",
+  "active": "2c3c2ed63227d261",
   "lastOpenFiles": [
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/1ª aula - 11 de agosto de 2023.md",
     "1ª aula - 15 de agosto de 2023.md",

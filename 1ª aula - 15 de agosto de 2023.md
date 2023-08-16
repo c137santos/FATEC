@@ -3,8 +3,9 @@ Por que existe configurações de 32 bits e 64 bits, pois isso é binário conve
 <strong> O que configura um embiente computacional? </strong>
 <ol>
 	<li>Processador (ULA, UC, Registrador)</li>
+	* 
 	<li>Memória</li>
-	<li>I/O - output e input</li>
+	<li>I/O - output e input (periféricos)</li>
 </ol>
 
 <strong> Como é dividido o processamento? </strong>
