@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1ª aula - 15 de agosto de 2023.md",
+                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/1ª aula - 11 de agosto de 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b297e8e6c155690d",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1ª aula - 15 de agosto de 2023.md",
+                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/1ª aula - 11 de agosto de 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1ª aula - 15 de agosto de 2023.md",
+                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/1ª aula - 11 de agosto de 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1ª aula - 15 de agosto de 2023.md"
+                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/1ª aula - 11 de agosto de 2023.md"
               }
             }
           }
@@ -171,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,14 +182,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc64bace451b4229",
+  "active": "2c3c2ed63227d261",
   "lastOpenFiles": [
-    "FATEC/1º Semestre (2023.2)/AAG102 - Fundamentos de Administração Geral/1ª aula - 14 de agosto de 2023.md",
+    "Untitled.canvas",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/1ª aula - 11 de agosto de 2023.md",
-    "1ª aula - 15 de agosto de 2023.md",
+    "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/1ª aula - 15 de agosto de 2023.md",
+    "LGPDTalk/LGPDTalk",
+    "LGPDTalk",
+    "FATEC/1º Semestre (2023.2)/AAG102 - Fundamentos de Administração Geral/1ª aula - 14 de agosto de 2023.md",
     "1ª aula - 14 de agosto de 2023.md",
     "FATEC/test",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta",
     "FATEC/1º Semestre (2023.2)/LPO001 - Comunicação e Expressão",
@@ -200,9 +200,7 @@
     "FATEC/1º Semestre (2023.2)/IAL001 - Algoritmos",
     "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores",
     "FATEC/1º Semestre (2023.2)/AAG102 - Fundamentos de Administração Geral",
-    "FATEC/1º Semestre (2023.2)",
     "FATEC/Untitled.md",
-    "Untitled 1",
     "Untitled 1.md"
   ]
 }
