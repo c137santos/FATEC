@@ -1,3 +1,4 @@
+#introduction 
 Por que existe configurações de 32 bits e 64 bits? Isso é binário convertido em décimal. O binário trata que as sequências sejam sempre o dobro.
 
 <strong> O que configura um embiente computacional? </strong>

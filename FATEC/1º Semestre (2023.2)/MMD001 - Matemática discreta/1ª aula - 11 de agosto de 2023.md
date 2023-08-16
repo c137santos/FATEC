@@ -1,5 +1,6 @@
-Prof. Marcos Allan - marcosallan@atec.sp.gov.br
+#introduction #planclass 
 
+Prof. Marcos Allan - marcosallan@atec.sp.gov.br
 
 <h2>Cronograma e Plano de Ensino</h2>
 <ol>
@@ -26,7 +27,6 @@ Prof. Marcos Allan - marcosallan@atec.sp.gov.br
   <li> Indução e recursão </li>
 </ol>
 
-
 <h3> Bibliografia </h3>
 - Menezes, P. B. Matemática discreta para computações e informática.
 
@@ -42,7 +42,7 @@ Prof. Marcos Allan - marcosallan@atec.sp.gov.br
 * Programinhas - 10 programas. 5 até 29/09/23, 5 até 08/12/23. 
 
 <h2>Matemática discreta</h2>
-- seleção de tópicos de matemática
-- essenciais para o estudo da ciência da computação
-- na formação básica e tecnológica, considerando que a maioria dos conceitos computacionais pertecem ao domínio do discreto, a matemática discreta (ou também chamada álgebra abstrata) é fortemente empregada.
+- Seleção de tópicos de matemática
+- Essenciais para o estudo da ciência da computação
+- Formação básica e tecnológica, considerando que a maioria dos conceitos computacionais pertecem ao domínio do discreto, a matemática discreta (ou também chamada álgebra abstrata) é fortemente empregada.
 - Qualquer sistema de computador possui limitações finita como memória, número de instruções e e número de simbolos que pode tratar. 
