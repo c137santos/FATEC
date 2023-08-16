@@ -1,4 +1,4 @@
-Por que existe configurações de 32 bits e 64 bits, pois isso é binário convertido a décimal. O binário trata que as sequência seja sempre o dobro.
+Por que existe configurações de 32 bits e 64 bits? Isso é binário convertido em décimal. O binário trata que as sequências sejam sempre o dobro.
 
 <strong> O que configura um embiente computacional? </strong>
 <ol>
@@ -19,4 +19,4 @@ Por que existe configurações de 32 bits e 64 bits, pois isso é binário conve
 	- Memória de alta velocidade que permite o armazenamento de valores intermediários ou de informações de comando.
 </ol>
 
-Hoje nosso gargalo está na memória adequada necessária para atuação de CPUs mais pontetes. Além disso, por mais que exise um processamento potente com uma memória adequada, isso pode ser impedido pelos barramentos, que possuem limitação em relação a quantidade de dados a ser transferidos uma única vez. 
+Hoje nosso gargalo está na memória adequada e necessária para atuação de CPUs mais potentes. Além disso, por mais que exisam um processamento melhor com uma memória adequada, isso pode ser gargalado pelos barramentos, que possuem limitação em relação a quantidade de dados a ser transferidos uma única vez. 
