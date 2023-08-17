@@ -13,3 +13,13 @@ Isso significa: usuário -> software -> kernel -> hardware
 
 Quando existe um sistema fechado, é fornecido a subsistema de I/O, para o desenvolvimento de periféricos compatíveis. O que é fornecido são APIs para consumo. Exemplo, windows. 
 
+<h3> Como a internet funciona - Não será abordado esse semestre </h3>
+
+* Começou assunto de redes, falando sobre como são distribuidas as LANs, o roteadores, a distribuição de IPs. 
+* O que é um roteador?
+* Configuração de rede?
+* Gateway padrão, porque não preciso usar em algum situações?
+* Quando sabemos onde está a informação, utiliza a rota, e ão é preciso do gateway.
+
+
+Quantos roteadores são necessário para chegar na china? Somente 12 dispositivos. 
