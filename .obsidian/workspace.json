@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b297e8e6c155690d",
@@ -171,18 +172,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b6367c420e96476",
+  "active": "2c3c2ed63227d261",
   "lastOpenFiles": [
-    "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/1ª aula - 15 de agosto de 2023.md",
-    "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2ª aula - 17 de agosto de 2023.md",
-    "Pasted image 20230817193706.png",
-    "Pasted image 20230817193643.png",
-    "Pasted image 20230817193123.png",
-    "Pasted image 20230817193040.png",
-    "Pasted image 20230817193016.png",
-    "Pasted image 20230817192954.png",
-    "Untitled.md",
     "FATEC/1º Semestre (2023.2)/IAL001 - Algoritmos/2ª aula - 17 de agosto de 2023.md",
+    "imgs/Pasted image 20230817193040.png",
+    "imgs/Pasted image 20230817193706.png",
+    "imgs/Pasted image 20230817193643.png",
+    "imgs/Pasted image 20230817193123.png",
+    "imgs/Pasted image 20230817193016.png",
+    "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2ª aula - 17 de agosto de 2023.md",
+    "imgs/Pasted image 20230817192954.png",
+    "imgs",
+    "Untitled.md",
+    "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/1ª aula - 15 de agosto de 2023.md",
     "Pasted image 20230817153428.png",
     "FATEC/1º Semestre (2023.2)/IAL001 - Algoritmos/1ª aula - 14 de agosto de 2023.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/1ª aula - 11 de agosto de 2023.md",
@@ -198,7 +200,6 @@
     "FATEC/1º Semestre (2023.2)/IBD181 - Laboratório de desenvolvimento em banco de dados I",
     "FATEC/1º Semestre (2023.2)/IAL001 - Algoritmos",
     "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores",
-    "FATEC/1º Semestre (2023.2)/AAG102 - Fundamentos de Administração Geral",
     "FATEC/Untitled.md",
     "Untitled 1.md"
   ]
