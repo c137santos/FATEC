@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b6367c420e96476",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2ª aula - 17 de agosto de 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/IAL001 - Algoritmos/2ª aula - 17 de agosto de 2023.md",
+                "file": "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2ª aula - 17 de agosto de 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/IAL001 - Algoritmos/2ª aula - 17 de agosto de 2023.md",
+                "file": "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2ª aula - 17 de agosto de 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/IAL001 - Algoritmos/2ª aula - 17 de agosto de 2023.md"
+                "file": "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2ª aula - 17 de agosto de 2023.md"
               }
             }
           }
@@ -159,13 +171,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe49cf787df55505",
+  "active": "2b6367c420e96476",
   "lastOpenFiles": [
+    "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/1ª aula - 15 de agosto de 2023.md",
+    "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2ª aula - 17 de agosto de 2023.md",
+    "Pasted image 20230817193706.png",
+    "Pasted image 20230817193643.png",
+    "Pasted image 20230817193123.png",
+    "Pasted image 20230817193040.png",
+    "Pasted image 20230817193016.png",
+    "Pasted image 20230817192954.png",
+    "Untitled.md",
+    "FATEC/1º Semestre (2023.2)/IAL001 - Algoritmos/2ª aula - 17 de agosto de 2023.md",
     "Pasted image 20230817153428.png",
     "FATEC/1º Semestre (2023.2)/IAL001 - Algoritmos/1ª aula - 14 de agosto de 2023.md",
-    "FATEC/1º Semestre (2023.2)/IAL001 - Algoritmos/2ª aula - 17 de agosto de 2023.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/1ª aula - 11 de agosto de 2023.md",
-    "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/1ª aula - 15 de agosto de 2023.md",
     "Untitled.canvas",
     "LGPDTalk/LGPDTalk",
     "LGPDTalk",
