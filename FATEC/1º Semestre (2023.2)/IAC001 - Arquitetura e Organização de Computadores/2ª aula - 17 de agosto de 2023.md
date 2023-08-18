@@ -14,8 +14,12 @@ Isso significa: usuário -> software -> kernel -> hardware
 Quando existe um sistema fechado, é fornecido a subsistema de I/O, para o desenvolvimento de periféricos compatíveis. O que é fornecido são APIs para consumo. Exemplo, windows. 
 
 ####  Como a internet funciona - Não será abordado esse semestre
+![[Pasted image 20230818134139.png]]
+Links para estudo que estão no desenho acima:
+https://www.cloudflare.com/pt-br/learning/cdn/glossary/time-to-live-ttl/
+https://www.vivaolinux.com.br/dica/Entendendo-o-campo-TTL-do-ping
 
-* Começou assunto de redes, falando sobre como são distribuidas as LANs, o roteadores, a distribuição de IPs. 
+* Começou assunto de redes, falando sobre como são distribuídas as LANs, o roteadores, a distribuição de IPs. 
 * O que é um roteador?
 * Configuração de rede?
 * Gateway padrão, porque não preciso usar em algum situações?
@@ -32,8 +36,10 @@ As conexões de TTL saem com 64 caso seja linux(?), 128 windows, ou 255 (cisco).
 ![[Pasted image 20230817211827.png]]
 
 ###### Monotarefa/monoprogramáveis
+![[Pasted image 20230818134314.png]]
 São mais simples, onde no ambiente computacional que executa uma única tarefa por vez. Tudo em fila indiana. Com subutilização de recursos. 
 ###### Multitarefas/multiprogramáveis
+![[Pasted image 20230818134332.png]]
 São mais complexos, com melhor aproveitamento e recursos
 * Tempo compartilhado: o cpu distribui fatias de tempo para cada tarefa, sem que permite a ociosidade do CPU. Essa distribuição de tempo haver com clock computador. Apesar que dentro do CPU ocorre apenas uma única tarefa, um processo concorrencial. Quando existe mais de um processador, então ocorrer paralelismo. 
 * *Tempo real*: sistema de finalidade única, sistemas embarcados. Uma sistema isolado para execução de tarefa. Uso para alta precisão de processamento.
@@ -44,6 +50,7 @@ São mais complexos, com melhor aproveitamento e recursos
 
 
 ###### Multiplos processadores
+![[Pasted image 20230818134416.png]]
 1 - Fracamente acoplado
 Isso seria GRID. Computação distribuída.
 Eles são ainda mais complexos e podem ser fracamento ou fortemente acoplados. 

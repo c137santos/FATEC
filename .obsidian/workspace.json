@@ -129,12 +129,12 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,25 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "554ba0614db62c8f",
+  "active": "2c3c2ed63227d261",
   "lastOpenFiles": [
+    "readme.md",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/Materiais de Estudo/Matematica_Discreta_para_a_Computacao_e (2).pdf",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/Materiais de Estudo",
+    "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/1ª aula - 15 de agosto de 2023.md",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/1ª aula - 11 de agosto de 2023.md",
+    "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2ª aula - 17 de agosto de 2023.md",
+    "imgs/Pasted image 20230818134416.png",
+    "imgs/Pasted image 20230818134332.png",
+    "imgs/Pasted image 20230818134314.png",
+    "imgs/Pasted image 20230818134139.png",
+    "index.md",
     "imgs/Pasted image 20230817193040.png",
     "imgs/Pasted image 20230817193706.png",
     "imgs/Pasted image 20230817211827.png",
     "Pasted image 20230817205039.png",
     "Pasted image 20230817205606.png",
-    "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2ª aula - 17 de agosto de 2023.md",
     "FATEC/1º Semestre (2023.2)/IAL001 - Algoritmos/2ª aula - 17 de agosto de 2023.md",
     "imgs/Pasted image 20230817193643.png",
-    "imgs/Pasted image 20230817193123.png",
-    "imgs/Pasted image 20230817193016.png",
-    "imgs/Pasted image 20230817192954.png",
     "imgs",
     "Untitled.md",
-    "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/1ª aula - 15 de agosto de 2023.md",
-    "Pasted image 20230817153428.png",
     "FATEC/1º Semestre (2023.2)/IAL001 - Algoritmos/1ª aula - 14 de agosto de 2023.md",
-    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/1ª aula - 11 de agosto de 2023.md",
     "Untitled.canvas",
     "LGPDTalk/LGPDTalk",
     "LGPDTalk",
@@ -175,8 +179,6 @@
     "FATEC/1º Semestre (2023.2)/LPO001 - Comunicação e Expressão",
     "FATEC/1º Semestre (2023.2)/LIN100 - Inglês I",
     "FATEC/1º Semestre (2023.2)/IBD181 - Laboratório de desenvolvimento em banco de dados I",
-    "FATEC/1º Semestre (2023.2)/IAL001 - Algoritmos",
-    "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores",
     "FATEC/Untitled.md",
     "Untitled 1.md"
   ]
