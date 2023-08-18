@@ -1,0 +1,9 @@
+---
+title: Anotações FATEC
+lang: pt-BR
+base_url: /FATEC/
+pagefind: true
+topnav:
+  links:
+    - text: Obsidian Garden
+      href: https://github.com/ecarrara/obsidian-garden
