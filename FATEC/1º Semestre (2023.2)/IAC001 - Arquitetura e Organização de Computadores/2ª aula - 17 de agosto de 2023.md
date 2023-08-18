@@ -29,7 +29,7 @@ As conexões de TTL saem com 64 caso seja linux(?), 128 windows, ou 255 (cisco).
 
 #### Tipos de Sistemas Operacionais
 
-![[Pasted image 20230817205606.png]]
+![[Pasted image 20230817211827.png]]
 
 ###### Monotarefa/monoprogramáveis
 São mais simples, onde no ambiente computacional que executa uma única tarefa por vez. Tudo em fila indiana. Com subutilização de recursos. 
@@ -43,7 +43,10 @@ São mais complexos, com melhor aproveitamento e recursos
 
 
 
-##### Multiplos processadores
+###### Multiplos processadores
+1 - Fracamente acoplado
+Isso seria GRID. Computação distribuída.
 Eles são ainda mais complexos e podem ser fracamento ou fortemente acoplados. 
-Fracamente acoplado são dois ambientes computacionais que são ligados por um link. Cada um com sua internet, por exemplo, tipo mineração.
-Fortemente acoplado
+Fracamente acoplado são dois ambientes computacionais que são ligados por um link. Cada um com sua internet, por exemplo, tipo mineração. Ataques DDOS.
+2 - Fortemente acoplado
+Em um ambiente computacional, onde tem uma placa mãe biprocessada. Ou seja, com dois CPUs. Ele dá oportunidade ao paralelismo.  
