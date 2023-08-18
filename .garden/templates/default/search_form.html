@@ -47,7 +47,7 @@
     }
 
     initializing = true
-    pagefind = await import("{{ site.base_url | safe }}_pagefind/pagefind.js")
+    pagefind = await import("{{ base_url | safe }}_pagefind/pagefind.js")
   }
 
   const waitPagefind = async () => {
