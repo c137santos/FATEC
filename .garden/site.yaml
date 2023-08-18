@@ -1,5 +1,7 @@
 ---
 title: Site name
+lang: pt-BR
+base_url: /fatec-notes/
 pagefind: true
 topnav:
   links:
