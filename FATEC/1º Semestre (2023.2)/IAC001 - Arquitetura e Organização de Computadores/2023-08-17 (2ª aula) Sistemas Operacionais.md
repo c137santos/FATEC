@@ -8,16 +8,19 @@ O Kernel é responsável por ligar o hardware e o software. E o software é que 
 
 Isso significa: usuário -> software -> kernel -> hardware
 
+<div align="center">
 
-![[Pasted image 20230817193040.png]] <str
+![[Pasted image 20230817193040.png]]  
+
+</div>
 
 Quando existe um sistema fechado, é fornecido a subsistema de I/O, para o desenvolvimento de periféricos compatíveis. O que é fornecido são APIs para consumo. Exemplo, windows. 
 
 ####  Como a internet funciona - Não será abordado esse semestre
 ![[Pasted image 20230818134139.png]]
 Links para estudo que estão no desenho acima:
-https://www.cloudflare.com/pt-br/learning/cdn/glossary/time-to-live-ttl/
-https://www.vivaolinux.com.br/dica/Entendendo-o-campo-TTL-do-ping
+[time to live ttl](https://www.cloudflare.com/pt-br/learning/cdn/glossary/time-to-live-ttl/)
+[Entendendo o campo TTL do ping](https://www.vivaolinux.com.br/dica/Entendendo-o-campo-TTL-do-ping)
 
 * Começou assunto de redes, falando sobre como são distribuídas as LANs, o roteadores, a distribuição de IPs. 
 * O que é um roteador?
@@ -33,7 +36,7 @@ As conexões de TTL saem com 64 caso seja linux(?), 128 windows, ou 255 (cisco).
 
 #### Tipos de Sistemas Operacionais
 
-![[Pasted image 20230817211827.png]]
+![[Pasted image 20230817211827.png]] #sistemaOperacional 
 
 ###### Monotarefa/monoprogramáveis
 ![[Pasted image 20230818134314.png]]
@@ -52,11 +55,8 @@ São mais complexos, com melhor aproveitamento e recursos
 ###### Multiplos processadores
 ![[Pasted image 20230818134416.png]]
 1 - Fracamente acoplado
-Isso seria GRID. Computação distribuída.
+	Isso seria GRID, uma computação distribuída.
 Eles são ainda mais complexos e podem ser fracamento ou fortemente acoplados. 
 Fracamente acoplado são dois ambientes computacionais que são ligados por um link. Cada um com sua internet, por exemplo, tipo mineração. Ataques DDOS.
 2 - Fortemente acoplado
 Em um ambiente computacional, onde tem uma placa mãe biprocessada. Ou seja, com dois CPUs. Ele dá oportunidade ao paralelismo.  
-
-
-<style> .center-image { text-align: center; } </style>
