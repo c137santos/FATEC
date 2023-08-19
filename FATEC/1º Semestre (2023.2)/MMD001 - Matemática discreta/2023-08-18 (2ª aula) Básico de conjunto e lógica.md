@@ -5,46 +5,39 @@
 ### Conjunto Finitos
 Conjuntos finitos podem ser listado (escreve o conjunto de 1 a 10 dos naturais), denotado por propriedade, por extensão ou compreensão (representações como A={1, 2, 3...100}, fica claro que é um conjunto de 1 à 100 dos naturais.
 ##### Representação
-Usa-se as letras maiúsculas do alfabeto
-* podem ser representados por 
-	* Listamento
-	* Propriedade
-	* Compreensão - é possível compreender quem está inserido nesse conjunto pela lógica ou projeção.
+Usa-se as letras maiúsculas do alfabeto, e podem ser representados por Listamento, Propriedade ou Compreensão (quando é possível compreender quem está inserido nesse conjunto pela lógica ou projeção).
 #### Conjunto 
 ##### Conceito
-Conjunto é uma estrutura que agrupa objetos e constitui uma base para construir mais estruturas mais complexas. Uma coleção de coisas (não) ordenadas.
-##### Definição
-Um conjunto é uma coleção de "zero" ou "mais objetos" distintos chamados elementoselementos do conjunto, os quais não possuem qualquer ordem associada. 
+Conjunto é uma estrutura que agrupa objetos e constitui uma base para construir mais estruturas mais complexas. Uma coleção de coisas (não) ordenadas. Uma definição seria que conjunto é uma coleção de "zero" ou "mais objetos" distintos chamados elementos do conjunto, os quais não possuem qualquer ordem associada. 
 ex: Conjunto de vogais, digitos, brasileiros. 
 
 ##### Elemento
-"Ente" ou objeto inserido dentro doi conjunto. 
-* Representação: Letras minúsculas do alfabeto, dígito, caracteres e simbolos. 
-ex: vogais = {a, e, i, o,u}
+"Ente" ou objeto inserido dentro do conjunto, são representados por letras minúsculas do alfabeto, dígito, caracteres e simbolos. 
+ex: $vogais=\{a, e, i, o, u\}$
+
 ##### Relação de pertinência (e): 
-É uma relação do elemento para com o conjunto. ex: seja A={a,e,i} um conjunto. 
-Um elemento pertence ao conjunto, um conjunto nunca pertence ao elemento. 
+É uma relação do elemento para com o conjunto é de pertinência. ex: seja $A=\{a,e,i\}$ um conjunto. 
+Um elemento pertence ao conjunto $\in$, um conjunto nunca pertence ao elemento. 
 Sempre do mais abrangente ao mais restrito.
-∉ -> não pertence.
-**∈** -> pertence.
-a **∈** A
-e **∈** A
-i **∈** A
-u ∉ A
+$\notin$ -> não pertence.
+$\in$-> pertence.
+a $\in$ A
+e $\in$ A
+i $\in$ A
+u $\notin$ A
 
 #### Subconjunto
-Subconjunto é aquele que faz parte de um conjunto maior.  Constitui uma relação de continência (C). É uma relação de conjunto para conjunto. 
-Ou seja, análise de subconjunto sempre será uma relação de continência. Está contido, ter parte dos elementos maior dentro como todo do conjunto menor. 
+Subconjunto é aquele que faz parte de um conjunto maior.  Constitui uma relação de continência ($\subset$). Relação de conjunto para conjunto. Ou seja, análise de subconjunto sempre será uma relação de continência. Está contido, ter parte dos elementos maior dentro como todo do conjunto menor. 
 
-ex: Seja A={a,e,o,u}, e o conjunto e B= {a,e,i,o,u} também um conjunto. 
-B C A? (B está contido em A?) 
-Sim, porque todos os elementos de B estão contidos em A.
+ex: Seja $A=\{a,e,o,u\}$, e o conjunto e $B=\{a,e,o,u\}$ também um conjunto. 
+B $\subset$ A? (B está contido em A?). Sim, porque todos os elementos de B estão contidos em A.
 
-a **∈** B + a **∈** A
-i **∈** B + a **∈** A
-u **∈** B + a **∈** A  , então B C A. Então B está contido em A. B é um conjunto próprio de A
+Porque:
+a $\in$ B + a $\in$ A
+i $\in$ B + a $\in$ A
+u $\in$ B + a $\in$ A  , então B $\subset$ A. Então B está contido em A. B é um conjunto próprio de A.
 
-e ∉ B ^ (ou) e **∈** A
+e $\notin$ B ^ e **∈** A
 o ∉ B ^ e **∈** A, então A ∉ B
 
 B ⊆ A, porque ∃ 6**∈**B e 6∉A
