@@ -33,25 +33,25 @@ ex: Seja $A=\{a,e,o,u\}$, e o conjunto e $B=\{a,e,o,u\}$ também um conjunto.
 B $\subset$ A? (B está contido em A?). Sim, porque todos os elementos de B estão contidos em A.
 
 Porque:
-a $\in$ B + a $\in$ A
-i $\in$ B + a $\in$ A
-u $\in$ B + a $\in$ A  , então B $\subset$ A. Então B está contido em A. B é um conjunto próprio de A.
+a $\in$ B $\land$ a $\in$ A
+i $\in$ B $\land$ a $\in$ A
+u $\in$ B $\land$ a $\in$ A  , então B $\subset$ A. Então B está contido em A. B é um conjunto próprio de A.
 
-e $\notin$ B ^ e **∈** A
-o ∉ B ^ e **∈** A, então A ∉ B
+e $\notin$ B $\land$ e $\in$ A
+o $\notin$ B $\land$ e $\in$ A, então A $\supset$ B, A não é subconjunto do conjunto B, porque pelo menos um elemento de A não está presente em B.
 
-B ⊆ A, porque ∃ 6**∈**B e 6∉A
+B $\nsubseteq$ A, porque $\exists$ 6**∈**B e 6∉A
 B não está contido em A, porque 6 pertence a B e não pertence a A. 
 
-##### Pontos importantes.
-- A notação correta de está contido é ⊆. Dessa forma cabe dizer que B pode até ser o próprio conjunto A. Por lógica, todo conjunto está contido nele mesmo. A gente só deveria usar a ideia de pertence (**∈** ) quando a cardinalidade (qtd de elementos) é diferente, quando existe certeza de identidade, pode usar o C com underline. Quando um está contido no outro, e outro nele. 
-- Conjunto vazio está contido em todos os conjuntos. ∅
-
+##### Ponto importante:
+A notação correta de está contido é $\subseteq$. Não apenas o $\subset$, esse C sem underline. Porque dessa forma cabe dizer que B é tanto subconjunto como também pode até ser o próprio conjunto A, por igualdade de elementos. Por lógica, todo conjunto está contido nele mesmo. A gente só deveria usar a ideia de contido ($\subset$) quando a cardinalidade (qtd de elementos) é diferente. Já quando existe certeza de identidade, pode usar o $\subseteq$. Quando um está contido no outro, e outro nele, e um é o outro, e ele é o outro. 
+ 
 ##### Conjunto vazio
-Aquele que não possui elemento. Cardinalidade # A = 0
+Conjunto vazio está contido em todos os conjuntos $\emptyset$. E ele sempre é um conjunto! Aquele que não possui elementos, de cardinalidade # A = 0
 ex: Conjunto de todos os brasileiros com mais de 300 anos. 
+$A = {\emptyset \mid \emptyset \text{ é conjunto de qualquer conjunto}}$
 
-Unitário: conjunto de elemento único. Cardinalidade: # A=1
+Já o conjunto unitário: conjunto de elemento único. Cardinalidade: # A=1
 ex: Conjunto de todos os jogadores chamados Pelé. 
 
 ### Conjunto Infinito
