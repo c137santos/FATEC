@@ -3,19 +3,20 @@
 ## Conceitos básicos da teoria de conjuntos.
 
 ### Conjunto Finitos
-Vamos ver conjunto finito agora. POdendo ser listado, denotado por propriedade, por extensão ou compreensão.
-#### Conjunto 
-##### Conceito
-Conjunto é uma estrutura que agrupa objetos e constitui uma base para construir mais estruturas mais complexas.
-##### Definição
-Um conjunto é uma coleção de "zero" ou "mais objetos" distintos chamados elementoselementos do conjunto, os quais não possuem qualquer ordem associada. 
-ex: Conjunto de vogais, digitos, brasileiros. 
+Conjuntos finitos podem ser listado (escreve o conjunto de 1 a 10 dos naturais), denotado por propriedade, por extensão ou compreensão (representações como A={1, 2, 3...100}, fica claro que é um conjunto de 1 à 100 dos naturais.
 ##### Representação
 Usa-se as letras maiúsculas do alfabeto
 * podem ser representados por 
 	* Listamento
 	* Propriedade
 	* Compreensão - é possível compreender quem está inserido nesse conjunto pela lógica ou projeção.
+#### Conjunto 
+##### Conceito
+Conjunto é uma estrutura que agrupa objetos e constitui uma base para construir mais estruturas mais complexas. Uma coleção de coisas (não) ordenadas.
+##### Definição
+Um conjunto é uma coleção de "zero" ou "mais objetos" distintos chamados elementoselementos do conjunto, os quais não possuem qualquer ordem associada. 
+ex: Conjunto de vogais, digitos, brasileiros. 
+
 ##### Elemento
 "Ente" ou objeto inserido dentro doi conjunto. 
 * Representação: Letras minúsculas do alfabeto, dígito, caracteres e simbolos. 
@@ -148,8 +149,15 @@ F | F | f
 
 Então, para determinar a quantidade de linhas da tabela verdade, 2 ^n onde n é o nº proposições.   
 Ex: Windows é SO e Pascal é linguagem de programação. 
+#### Disjunção (v)
+Basta que uma das proposições seja verdadeira. Para a falsidade, as proposições precisam ser todas falsas.
 
-
+p  | q | p v q
+--------- | ------
+V | V | V
+V | F | V
+F | V | V
+F | F | F
 
 
 
