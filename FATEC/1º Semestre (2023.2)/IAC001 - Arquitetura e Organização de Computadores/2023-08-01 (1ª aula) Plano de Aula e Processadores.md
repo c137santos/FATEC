@@ -10,7 +10,7 @@
 <strong> O que configura um embiente computacional? </strong>
 <ol>
 	<li>Processador (ULA, UC, Registrador)</li>
-	- Circuito integrado (chip) considerado o cérebro do pc. Onde são executados os cálculos e as tomadas de decisões conforme as instruções armazenadas na memória. Compõe ele a Unidade Central de Processamento (CPU) com Unividade de controle (UC), Unidade Lógica e Aritimética (ULA) e registradores.
+	- Circuito integrado (chip) considerado o cérebro do pc. Onde são executados os cálculos e as tomadas de decisões conforme as instruções armazenadas na memória. Compõe ele a Unidade Central de Processamento (CPU) com unidade de controle (UC), Unidade Lógica e Aritimética (ULA) e registradores.
 	<li>Memória</li>
 	<li>I/O - output e input (periféricos)</li>
 </ol>
