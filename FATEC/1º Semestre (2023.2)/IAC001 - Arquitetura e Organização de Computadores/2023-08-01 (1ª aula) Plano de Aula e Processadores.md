@@ -1,5 +1,11 @@
-#introduction 
-Por que existe configurações de 32 bits e 64 bits? Isso é binário convertido em decimal. O binário trata que as sequências sejam sempre o dobro.
+#processadores #introduction 
+
+
+1. Por que existe configurações de 32 bits e 64 bits?"
+    A diferenciação entre configurações de 32 bits e 64 bits refere-se à arquitetura de processadores e sistemas operacionais. Esses números se referem ao tamanho das palavras (ou seja, a quantidade de bits) que o processador pode processar de uma só vez. Quanto mais bits, maior a capacidade de endereçamento de memória, cálculos mais complexos e melhor desempenho geral em tarefas que exigem manipulação de dados grandes.
+    O aumento de bits em uma arquitetura, como de 32 bits para 64 bits, não necessariamente dobra as sequências binárias. Cada bit adicional aumenta exponencialmente a capacidade de representação de números e endereçamento de memória, mas não dobra simplesmente as sequências.
+
+É importante entender que as configurações de 32 bits e 64 bits têm a ver com a capacidade de processamento e gerenciamento de memória de sistemas, não com uma conversão entre binário e decimal.
 
 <strong> O que configura um embiente computacional? </strong>
 <ol>

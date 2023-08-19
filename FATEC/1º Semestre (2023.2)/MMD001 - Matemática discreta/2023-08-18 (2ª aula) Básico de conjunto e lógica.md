@@ -74,7 +74,7 @@ b) A ⊆ B (Verdadeiro, pois a relação entre conjuntos é de continência, ond
 c) A **∈** B (Falso, pois não existe relação de pertinência entre conjuntos)
 d) A = B (Falso, não existe igualdade entre os conjuntos devido a diferença de cardinalidade)
 e) A C C (Verdadeiro, pois todos os elementos de A -> 1 estão contidos em C)
-f) A ⊆ C (Verdadeiro, pois todos os elementos de A-> estão contidos em C)
+f) A ⊆ C (Verdadeiro, pois todos os elementos de A-> estão contidos em C, todo conjunto está contido nele mesmo)
 g) A **∈** C (Verdadeiro, pois o conjunto pertence ao conjunto C)
 h) A = C (Falso, não existe a igualdade)
 i) 1 **∈** A (Verdadeiro, elemento 1 pertence ao conjunto A)
@@ -84,33 +84,8 @@ e) {1} **∈** C (Verdadeiro, o conjunto {1} está como elemento de conjunto C )
 m) ∅ ∉  C (Verdadeiro, relação entre conjunto (nesse caso o conjunto vazio) e outro não pode se dar por continência)
 n) ∅ ⊆ C (Verdadeiro, todo conjunto vazio está contido em qualquer conjunto)
 
-
-
-
-
-
-
-
-
-
-
-d) A = B (Falso, não existem igualdade)
-e) A C C (Verdadeiro, porque todos os elementos de A estão contidos em C)
-f) A ⊆ C (Verdadeiro, porque o próprio conjunto de A está contido em C, que está contido nele mesmo)
-g) A **∈** C (verdadeiro, {1} **∈** C) -> cuidado com isso. 
-h) A = C
-i) 1 **∈** A (Verdadeiro, porque o elemento está contigo em A)
-j) 1 **∈** C (Verdadeiro)
-k) {1} **∈** A
-e) {1} **∈** C (Verdadeiro)
-m) ∅ ∉  C (verdadeiro)
-n) ∅ ⊆ C (verdadeiro)
-
-
-- [ ] Treine as notações
-- [ ] Justifique as respostas.
-
-
+Exercício para prova
+- [ ] Treine formas de escrita de notações de representação de conjuntos
 
 ## Lógica
 
