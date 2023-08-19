@@ -60,20 +60,40 @@ Não pode listado, eles são representado por Compreensão.
 ### Exercícios
 1 - Descreva de forma alternativa (usando outra forma de notação) e diga se é finito ou infinito. Se possível, dê sua cardinalidade. 
 a) Todos os numeros inteiros maiores que 10. 
-resposta: infinitos A = {X ∈ z | x>10 }
+resposta: infinitos A = {X ∈ Z | x > 10 }
 b) {1,3,4,5,...}. Infinito pela representação por compreensão. 
-resposta: infinitos b = {x | x é um número impar}
+resposta: infinitos b = {x | x é um número ímpar}
 c) Todos os países do mundo . 
-resposta: c = { x | x é um pais do mundo}, finito # 196
+resposta: c = { x | x é um país do mundo}, finito # C=196
 d) A linguagem de programação python. 
-resposta: { x } x é um programa em python 
-
-o fato de algo poder ser infinitas vezes 
+resposta: { x | x é um programa em python}, discutível sobre a finidade. 
 
 2- Para A = {1}; B= {1,2} e C={{1}, 1}, marque as alternativas corretas. 
-a) A C B (Verdadeiro, relação entre conjunto é de continência)
-b) A ⊆ B (Verdadeiro)
-c) A **∈** B (Falso)
+a) A C B (Verdadeiro, relação entre conjunto é de continência e todos os elementos de A estão contidos em B)
+b) A ⊆ B (Verdadeiro, pois a relação entre conjuntos é de continência, onde todos os elementos de A estão contidos em B, assim como A é o próprio conjunto B)
+c) A **∈** B (Falso, pois não existe relação de pertinência entre conjuntos)
+d) A = B (Falso, não existe igualdade entre os conjuntos devido a diferença de cardinalidade)
+e) A C C (Verdadeiro, pois todos os elementos de A -> 1 estão contidos em C)
+f) A ⊆ C (Verdadeiro, pois todos os elementos de A-> estão contidos em C)
+g) A **∈** C (Verdadeiro, pois o conjunto pertence ao conjunto C)
+h) A = C (Falso, não existe a igualdade)
+i) 1 **∈** A (Verdadeiro, elemento 1 pertence ao conjunto A)
+j) 1 **∈** C (Verdadeiro, elemento 1 pertence ao conjunto de C)
+k) {1} **∈** A (Falso, não há essa pertencimento entre conjuntos)
+e) {1} **∈** C (Verdadeiro, o conjunto {1} está como elemento de conjunto C )
+m) ∅ ∉  C (Verdadeiro, relação entre conjunto (nesse caso o conjunto vazio) e outro não pode se dar por continência)
+n) ∅ ⊆ C (Verdadeiro, todo conjunto vazio está contido em qualquer conjunto)
+
+
+
+
+
+
+
+
+
+
+
 d) A = B (Falso, não existem igualdade)
 e) A C C (Verdadeiro, porque todos os elementos de A estão contidos em C)
 f) A ⊆ C (Verdadeiro, porque o próprio conjunto de A está contido em C, que está contido nele mesmo)
