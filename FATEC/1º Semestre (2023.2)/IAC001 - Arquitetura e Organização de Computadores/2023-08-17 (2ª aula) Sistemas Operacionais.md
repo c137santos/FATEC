@@ -3,13 +3,13 @@ A aplicação não tem acesso diretamente ao Hardware, é o sistema operacional 
 
 ![[Pasted image 20230817193706.png]]
 
-<font color='green'> Diferença entre o sistema operacional e o kernel </font>: Por que o linux não é um sistema operacional?  O linux é um kernel, o Sistema operacional são as distribuições Deb (ubuntu, debiam) e RPM. (red hate, centos, suse)
-O Kernel é responsável por ligar o hardware e o software. E o software é o usuário interage, significa a interface. 
+Qual a diferença entre o sistema operacional e o kernel? Por que o linux não é um sistema operacional? O Linux é um kernel, não um sistema operacional completo. No entanto, muitas pessoas referem-se erroneamente ao conjunto completo de sistema operacional como "Linux". O sistema operacional real é a combinação do kernel Linux, juntamente com utilitários, bibliotecas e aplicativos que permitem a funcionalidade completa do sistema.
+O Kernel é responsável por ligar o hardware e o software. E o software é que o usuário interage, significa a interface. 
 
 Isso significa: usuário -> software -> kernel -> hardware
 
-![[Pasted image 20230817193040.png]]
 
+![[Pasted image 20230817193040.png]] <str
 
 Quando existe um sistema fechado, é fornecido a subsistema de I/O, para o desenvolvimento de periféricos compatíveis. O que é fornecido são APIs para consumo. Exemplo, windows. 
 
@@ -57,3 +57,6 @@ Eles são ainda mais complexos e podem ser fracamento ou fortemente acoplados.
 Fracamente acoplado são dois ambientes computacionais que são ligados por um link. Cada um com sua internet, por exemplo, tipo mineração. Ataques DDOS.
 2 - Fortemente acoplado
 Em um ambiente computacional, onde tem uma placa mãe biprocessada. Ou seja, com dois CPUs. Ele dá oportunidade ao paralelismo.  
+
+
+<style> .center-image { text-align: center; } </style>

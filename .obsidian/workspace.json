@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2023-08-17 - 2ª aula.md",
+                "file": "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2023-08-17 (2ª aula) Sistemas Operacionais.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "80b699a4078b6426",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "imgs/Pasted image 20230817193040.png"
               }
             }
           },
@@ -23,16 +33,13 @@
             "id": "2cbb81cfbd3b01dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2023-08-01 (1ª aula) Plano de Aula e Processadores.md",
-                "mode": "source",
-                "source": false
+                "file": "imgs/Pasted image 20230817193040.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2023-08-01 (1ª aula) Plano de Aula e Processadores.md",
+                "file": "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2023-08-17 (2ª aula) Sistemas Operacionais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2023-08-01 (1ª aula) Plano de Aula e Processadores.md",
+                "file": "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2023-08-17 (2ª aula) Sistemas Operacionais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2023-08-01 (1ª aula) Plano de Aula e Processadores.md"
+                "file": "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2023-08-17 (2ª aula) Sistemas Operacionais.md"
               }
             }
           }
@@ -159,14 +166,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2cbb81cfbd3b01dd",
+  "active": "554ba0614db62c8f",
   "lastOpenFiles": [
+    "imgs/Pasted image 20230817193040.png",
+    "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2023-08-17 (2ª aula) Sistemas Operacionais.md",
+    "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2023-08-01 (1ª aula) Plano de Aula e Processadores.md",
     "FATEC/1º Semestre (2023.2)/IAL001 - Algoritmos/2023-08-14 (1ª aula) Plano de Aula.md",
     "FATEC/1º Semestre (2023.2)/IAL001 - Algoritmos/2023-08-17  (2ª aula) Lógica.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-11 (1ª aula) Plano de aula.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-18 (2ª aula) Básico de conjunto e lógica.md",
     "Index.md",
-    "imgs/Pasted image 20230817193040.png",
     "imgs/Pasted image 20230817193706.png",
     "imgs/Pasted image 20230817211827.png",
     "imgs/Pasted image 20230818134139.png",
@@ -177,8 +186,6 @@
     "conflict-files-obsidian-git.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/Materiais de Estudo/Matematica_Discreta_para_a_Computacao_e (2).pdf",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/Materiais de Estudo",
-    "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2023-08-17 - 2ª aula.md",
-    "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2023-08-01 (1ª aula) Plano de Aula e Processadores.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2ª aula -.md",
     "2023-08-18.md",
     "Pasted image 20230817205039.png",

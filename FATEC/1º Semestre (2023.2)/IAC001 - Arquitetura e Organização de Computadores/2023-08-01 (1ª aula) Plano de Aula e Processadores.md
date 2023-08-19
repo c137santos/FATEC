@@ -26,4 +26,4 @@
 	- Memória de alta velocidade que permite o armazenamento de valores intermediários ou de informações de comando.
 </ol>
 
-Hoje nosso gargalo está na memória adequada e necessária para atuação de CPUs mais potentes. Além disso, por mais que exisam um processamento melhor com uma memória adequada, isso pode ser gargalado pelos barramentos, que possuem limitação em relação a quantidade de dados a ser transferidos uma única vez. 
+Hoje nosso gargalo está na memória adequada e necessária para atuação de CPUs mais potentes. Além disso, por mais que existam um processamento melhor com uma memória adequada, isso pode ser gargalado pelos barramentos, que possuem limitação em relação a quantidade de dados a ser transferidos uma única vez. 
