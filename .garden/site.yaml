@@ -3,6 +3,7 @@ title: Anotações FATEC
 lang: pt-BR
 base_url: /FATEC/
 pagefind: true
+katex: true
 topnav:
   links:
     - text: Obsidian Garden
