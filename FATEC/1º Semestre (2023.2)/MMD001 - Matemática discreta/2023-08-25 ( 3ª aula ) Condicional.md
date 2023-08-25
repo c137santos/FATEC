@@ -72,7 +72,7 @@ Reflete a noção de condição nos dois sentidos. Será verdade se ambos os res
 
 <table border="1"> 
 	<tr> 
-		<th>p</th><th>q</th><th>p->q</th></tr>
+		<th>p</th><th>q</th><th>p<->q</th></tr>
 		<tr> 
 			<td> V </td><td>V</td> <td>V</td> 
 		</tr> 
