@@ -72,7 +72,7 @@ Reflete a noção de condição nos dois sentidos. Será verdade se ambos os res
 
 <table border="1"> 
 	<tr> 
-		<th>P</th><th>Q</th><th>p->q</th></tr>
+		<th>p</th><th>q</th><th>p->q</th></tr>
 		<tr> 
 			<td> V </td><td>V</td> <td>V</td> 
 		</tr> 
@@ -83,8 +83,31 @@ Reflete a noção de condição nos dois sentidos. Será verdade se ambos os res
 			<td>F</td> <td>V</td> <td>F</td>
 		</tr>
 		<tr>
-			<td>f</td> <td>F</td> <td>V</td>
+			<td>F</td> <td>F</td> <td>V</td>
 		</tr>
-	
 </table>
+
+Determina V(P), sabendo que:
+a) V(q) = F e v( p<-> q) = F
+	v(p) = V
+b) V(q) = F e V(p<->q) = V
+	v(p) = F
+
+#### Fórmulas
+Dentro das fórmulas existem uma ordem de precedência
+1. Parentesis
+2. Conectivos
+	1. negação
+	2. conjunção/disjunção
+	3. condicional
+	4. bicondicional
+
+ex: ¬(p$\land$ q) <-> (¬p$\vee$ ¬q) = tautologia, contigencial, ou autológica. 
+
+#### Exercícios
+1) p $\vee$ (q ^r ) <-> (p$\vee$q) ^ (p $\vee$ r)
+	1) 
+2) ¬ p ->(q ->p)
+3) ¬(p->(¬p->q))
+4) p -> r <-> q $\vee$ ¬ r
 
