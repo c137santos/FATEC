@@ -110,4 +110,4 @@ ex: ¬(p$\land$ q) <-> (¬p$\vee$ ¬q) = tautologia, contigencial, ou autológic
 2) ¬ p ->(q ->p)
 3) ¬(p->(¬p->q))
 4) p -> r <-> q $\vee$ ¬ r
-
+5) (p^q -> r) v(¬p <-> q$\vee$ ¬r)
