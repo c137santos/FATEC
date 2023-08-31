@@ -17,8 +17,7 @@ De 5 a 7 pessoas.
 * Aplicação de técnicas de apresentação
 
 #### Desafio proposto. 
-A instituição de ensino PBLTeX, especializada em cursos práticas de ensino aplicado PBL ( Problem Based Learning) utiliza uma técnica de ensino diferenciada e isso a diferente de outras instituições tradicionais já conceituadas no mercado. Cada vez mais a empresa vez se consolidando no segmento de edtechs. 
-Em seus curso, ela c
+A instituição de ensino PBLTeX, especializada em cursos práticas de ensino aplicando PBL (Problem Based Learning) utiliza uma técnica de ensino diferenciada e isso a diferente de outras instituições tradicionais já conceituadas no mercado. Cada vez mais a empresa vem se consolidando no segmento de edtechs. Em seus cursos ela costuma trabalhar com ciclos de desenvolvimento, similares ao Scrum, para evoluir os hard e soft skills de seus alunos. Tais ciclos entregam scores parciais de seus alunos que são usados no final para computar o chamado FEE (fator de ensino evolutivo). Contudo a empresa não dispõe atualmente de um SI (sistema de informação) direcionado para a gestão e acompanhamento dos scores de seus alunos. A instituição tem experimentado algumas soluções de mercado e em uma análise Make or Buy feita recentemente optou pelo “make”, ou seja, construir uma solução interna que viabilize tal gestão e acompanhamento. O desafio do seu grupo é apoiar a PBLTeX a levantar, especificar e desenvolver essa solução.
 
 a) Promete menos. 
 ##### Requisitos Funcionais
