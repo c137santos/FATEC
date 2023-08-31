@@ -5,9 +5,9 @@ De 5 a 7 pessoas.
 #### Tema
 * Desenvolvimento de uma solução computacional que exercite a capacidade de pesquisa e autodidaxia dos integrantes dos grupos, no que tange:
 	* A aplicação (no projeto) de técnicas de programação para a construção de algoritmos;
-	* O uso de uma ferramenta que possbilite um Ambiente de Desenvolvimento Integrado (IDE) para o desenvolvimento da solução computacional;
+	* O uso de uma ferramenta que possibilite um Ambiente de Desenvolvimento Integrado (IDE) para o desenvolvimento da solução computacional;
 	* O aprendizado e aplicação de uma ou mais linguagens de programação para concepção do projeto;
-	* O exercício do compmisso, responsabilidade e trabalho em equipe dos membros do Time (sucesso/ fracasso de TODOS)
+	* O exercício do compromisso, responsabilidade e trabalho em equipe dos membros do Time (sucesso/ fracasso de TODOS)
 #### Conhecimentos visados
 * Levantamento de requisitos
 * Capacidade de trabalhar com framework de Gestão Ágil de Projetos (scrum)
@@ -23,14 +23,14 @@ Em seus curso, ela c
 a) Promete menos. 
 ##### Requisitos Funcionais
 1. O SI deve possuir um controle de turmas
-2. o SI deve possuir um controle de grupos de ALunos
+2. o SI deve possuir um controle de grupos de Alunos
 3. O SI deve permitir um controle de alunos
 4. O SI devepermitir a carga de aluno
 5. O SI deve permitir um controle dos ciclos de entrega
 6.  O SI deve permitir a carga de scores parciais relacionados ao ciclo de entrega
 7.  O SI deve permitir a configuração de parâmetros globais
 8.  O SI deve permitir a exportação de dados consolidados, computados e métricas inferidas
-9.  O SI deve prover visibilidades objetivas e diretas que possibilitem o acompanhemtno dos curso providos pelo PBLTeX. 
+9.  O SI deve prover visibilidades objetivas e diretas que possibilitem o acompanhamento dos curso providos pelo PBLTeX. 
 
 #### Requisitos Não-funcionais
 * Linguagem de programação Python e tecnologias relacionadas. 
