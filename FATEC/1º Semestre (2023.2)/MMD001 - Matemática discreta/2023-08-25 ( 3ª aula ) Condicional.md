@@ -1,4 +1,4 @@
-#condicional #logicaProposicional #logica 
+#condicional #logicaProposicional #logica #tautologia #contradicao #continencia
 #### Condicional ($\rightarrow$)
 Lembrando que estamos aqui estamos buscando a verdade. O importante é a conclusão.
 Isso significa que a condição de duas proposições p e q.

@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "10d65cfdb1fbe7e5",
+            "id": "df9e37c44913abae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-08-31 (3ª aula) Hardware.md",
+                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-01 (4ª aula) Relações de implicância equivalência.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-08-31 (3ª aula) Hardware.md",
+                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-01 (4ª aula) Relações de implicância equivalência.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-08-31 (3ª aula) Hardware.md",
+                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-01 (4ª aula) Relações de implicância equivalência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-08-31 (3ª aula) Hardware.md"
+                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-01 (4ª aula) Relações de implicância equivalência.md"
               }
             }
           }
@@ -159,10 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10d65cfdb1fbe7e5",
+  "active": "df9e37c44913abae",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Pasted image 20230901193546.png",
+    "Pasted image 20230901192904.png",
+    "Pasted image 20230901191847.png",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-25 ( 3ª aula ) Condicional.md",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-01 (4ª aula) Relações de implicância equivalência.md",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/Untitled.md",
+    "Readme.md",
     "2023-08-31 (3ª aula) Hardware.md",
+    "Untitled 1.md",
     "FATEC/1º Semestre (2023.2)/API/Kick-off do Trabalho de API do 1º Semestre.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -170,10 +177,7 @@
     "FATEC/1º Semestre (2023.2)/IAL001 - Algoritmos/2023-08-14 (1ª aula) Plano de Aula.md",
     "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2023-08-17 (2ª aula) Sistemas Operacionais.md",
     "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2023-08-01 (1ª aula) Plano de Aula e Processadores.md",
-    "Readme.md",
-    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-25 ( 3ª aula ) Condicional.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-18 (2ª aula) Básico de conjunto e lógica.md",
-    "Untitled.md",
     "index.md",
     "FATEC/1º Semestre (2023.2)/API",
     "imgs/Pasted image 20230817193040.png",
@@ -190,8 +194,6 @@
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2ª aula -.md",
     "2023-08-18.md",
     "Pasted image 20230817205039.png",
-    "Pasted image 20230817205606.png",
-    "imgs/Pasted image 20230817193643.png",
     "imgs",
     "LGPDTalk/LGPDTalk",
     "LGPDTalk",
