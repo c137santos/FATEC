@@ -100,3 +100,36 @@ A ⊆ B ⊆ C
 A ⊆ B $\land$ B ⊆ c
 => a ⊆ c
 ![[Pasted image 20230901211618.png]]
+
+#### União (U)
+Não há necessidade de simultaneidade de elementos 
+
+![[Pasted image 20230901212938.png]]
+
+X $\in$ A $\vee$  x $\in$
+A U B = {x | x $\in$ A $\vee$ x $\in$ B}
+Corresponde a disjunção na lógica
+
+ex: digitos = {0;1;2;3;...9;}
+vogais = {a;e;i;o;u}
+pares = {0;3;4;...}
+DUV = {a;e;i;o;u;0;1;2;3;...9}
+DUP = {0;1;2;3;4;...9;10...;12;14...}
+
+#### Intersecção
+Entre cortes. Há a necessidade de simultaneidade dos elementos. Corresponde a conjunção na lógica
+
+![[Pasted image 20230901214545.png]]
+
+A $\cup$  B = { x| x $\in$ A $\land$ x $\in$ B }
+ex: Digitos união (U investido) vogais = 
+dígitos (uniao) Pares = {0;2;4;6;8}
+
+A= {x $\in$ N | x > 2}
+B = { x $\in$ N | x² = x}
+A $\cup$ B= { }
+
+### Jamais represente o vazio assim {$\emptyset$}
+Vazio na tabela verdade é falso. 
+Quantos conjuntos o A = {1;2} é capaz de gerar? 2² = 4. 
+P = { $\emptyset$, {1}, {2}, A}
