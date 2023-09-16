@@ -24,4 +24,23 @@ essa relação? {{p}} ele é é elemento das P(P(a))
 É uma operação binária quando aplicada a 2 conjuntos. 
 A x B
 
-Lê-se: A carteriano B, onde 
+Lê-se: A carteriano B, onde A é o COnjunto de origem partida e B é o conjunto de destino/chegada. 
+Ideia: Pares ordenados
+ex: A ={ 1, 2, 3, 4, 5}
+B = {2, 3,5 }
+Obs: No produto carteriano (operação completa) todos os elemento da origem se relacionam com todos os elementos de destino. 
+A x B { <1; 2> <1; 3> <1; 5> <2; 2> <2; 3> <2; 5> <3; 2> <3; 3> <3; 5> <4; 2> <4; 3> <4; 5> <5; 2> <5; 3> <5; 5>}
+
+Exercício:
+A = {1, 2, 3, 4}, o conjunto B = {2, 3, 5}.
+
+
+Seja A= {a}, B= {a,b} e C = {1,2,3}
+a) AxB= {<a;a> ; <a;b>} matriz linha
+b) A x A = {<a;a>} Reflexiva, operando com ele memso.
+c) A x C = {<a;1>; <a;2>; <a;3}
+d) B x C = { <a;1>; <a;2>; <a;3>,
+					<b;1>; <b;2>;<b;3> }
+
+#### União disjunta
+

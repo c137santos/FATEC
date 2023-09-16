@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sistemaOperacional",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,7 +204,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c3c2ed63227d261",
+  "active": "c1620c582d5aadc2",
   "lastOpenFiles": [
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/Untitled.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-15 (5ª aula operações reversíveis).md",
