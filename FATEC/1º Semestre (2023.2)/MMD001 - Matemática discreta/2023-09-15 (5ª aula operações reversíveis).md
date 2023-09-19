@@ -43,4 +43,9 @@ d) B x C = { <a;1>; <a;2>; <a;3>,
 					<b;1>; <b;2>;<b;3> }
 
 #### União disjunta
+conceitua. 
+
+### Exercicios
+1) Suponha o conjunto universo U = {0,1,2,3,...9}, bem como os seguintes conjuntos:
+2) a = {}
 
