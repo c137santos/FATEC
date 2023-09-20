@@ -64,9 +64,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e93060a837c72ca2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -204,7 +214,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1620c582d5aadc2",
+  "active": "e93060a837c72ca2",
   "lastOpenFiles": [
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/Untitled.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-15 (5ª aula operações reversíveis).md",
