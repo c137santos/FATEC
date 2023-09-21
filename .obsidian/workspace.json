@@ -20,36 +20,14 @@
             }
           },
           {
-            "id": "df9e37c44913abae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9978990dee2546f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-25 ( 3ª aula ) Condicional.md",
+                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-18 (2ª aula) Básico de conjunto e lógica.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f6919320729a3702",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
               }
             }
           },
@@ -76,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-15 (5ª aula operações reversíveis).md",
+                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-18 (2ª aula) Básico de conjunto e lógica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-15 (5ª aula operações reversíveis).md",
+                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-18 (2ª aula) Básico de conjunto e lógica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-15 (5ª aula operações reversíveis).md"
+                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-18 (2ª aula) Básico de conjunto e lógica.md"
               }
             }
           },
@@ -214,15 +191,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e93060a837c72ca2",
+  "active": "9978990dee2546f7",
   "lastOpenFiles": [
-    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/Untitled.md",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-11 (1ª aula) Plano de aula.md",
+    "FATEC/1º Semestre (2023.2)/IAL001 - Algoritmos/2023-08-17  (2ª aula) Lógica.md",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-25 ( 3ª aula ) Condicional.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-15 (5ª aula operações reversíveis).md",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/Untitled.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-01 (4ª aula) Relações de implicância equivalência.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-18 (2ª aula) Básico de conjunto e lógica.md",
     "Pasted image 20230901214545.png",
     "Pasted image 20230901212938.png",
-    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-25 ( 3ª aula ) Condicional.md",
     "Pasted image 20230901211618.png",
     "imgs/Pasted image 20230901210810.png",
     "imgs/Pasted image 20230901210356.png",
@@ -239,11 +218,9 @@
     "FATEC/1º Semestre (2023.2)/API/Kick-off do Trabalho de API do 1º Semestre.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "FATEC/1º Semestre (2023.2)/IAL001 - Algoritmos/2023-08-17  (2ª aula) Lógica.md",
     "FATEC/1º Semestre (2023.2)/IAL001 - Algoritmos/2023-08-14 (1ª aula) Plano de Aula.md",
     "index.md",
     "FATEC/1º Semestre (2023.2)/API",
-    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-11 (1ª aula) Plano de aula.md",
     "conflict-files-obsidian-git.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/Materiais de Estudo/Matematica_Discreta_para_a_Computacao_e (2).pdf",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/Materiais de Estudo",

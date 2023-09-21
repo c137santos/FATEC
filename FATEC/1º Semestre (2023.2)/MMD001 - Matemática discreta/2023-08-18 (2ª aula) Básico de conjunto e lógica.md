@@ -129,7 +129,7 @@ Dadas duas proposições p e q, denotadas por: p ^ q. Lê-se: p e q.
 Reflete a noção de simultaneidade 
 
 p  | q | p ^ q
---------- | ------
+--------- | ----|--
 V | V | v
 V | F | f
 F | V | f
@@ -138,10 +138,10 @@ F | F | f
 Então, para determinar a quantidade de linhas da tabela verdade, 2 ^n onde n é o nº proposições.   
 Ex: Windows é SO e Pascal é linguagem de programação. 
 #### Disjunção (v)
-Basta que uma das proposições seja verdadeira. Para a falsidade, as proposições precisam ser todas falsas.
+Basta que uma das proposições seja verdadeira para resultado ser verdadeiro. Para a falsidade, as proposições precisam ser todas falsas. Também conhecido como arroz de festa
 
 p  | q | p v q
---------- | ------
+--------- | ----|--
 V | V | V
 V | F | V
 F | V | V
