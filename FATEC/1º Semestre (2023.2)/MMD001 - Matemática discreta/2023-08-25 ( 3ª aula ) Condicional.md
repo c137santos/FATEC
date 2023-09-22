@@ -10,7 +10,7 @@ Também reflete que partir de uma permissa falsa $\forall$ é verdadeira. O que 
 
 
 p  | ~P | p -> q
---------- | ------
+--------- | ----|--
 V | V | V
 V | F | F
 F | V | V
