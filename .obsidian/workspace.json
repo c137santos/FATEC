@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b297e8e6c155690d",
@@ -171,6 +172,7 @@
   },
   "active": "e09807fba165fde8",
   "lastOpenFiles": [
+    "Pasted image 20230927104355.png",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-11 (1ª aula) Plano de aula.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/Materiais de Estudo/Matematica_Discreta_para_a_Computacao_e (2).pdf",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-18 (2ª aula) Básico de conjunto e lógica.md",

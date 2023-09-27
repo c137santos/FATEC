@@ -2,13 +2,15 @@
 #conjuntoVazio #conjuntoUnitario #logica #logicaProposicional
 ## Conceitos básicos da teoria de conjuntos.
 
+O conceito de conjunto é fundamental, pois praticamente todos os conceitos em Computação e Informática, bem como os correspondentes resultados, são baseados em conjuntos ou construções sobre conjuntos. 
+
 ### Conjunto Finitos
 Conjuntos finitos podem ser listado (escreve o conjunto de 1 a 10 dos naturais), denotado por propriedade, por extensão ou compreensão. Representar A={1, 2, 3...100}, fica claro que é um conjunto de 1 à 100 dos naturais por compreensão.
 ##### Representação
 Usa-se as letras maiúsculas do alfabeto, e podem ser representados por Listamento, Propriedade ou Compreensão (quando é possível compreender quem está inserido nesse conjunto pela lógica ou projeção).
 #### Conjunto 
 ##### Conceito
-Conjunto é uma estrutura que agrupa objetos e constitui uma base para construir outras estruturas mais complexas. Uma coleção de coisas (não) ordenadas. Uma definição seria que conjunto é uma coleção de "zero" ou "mais objetos" distintos, esses chamados elementos do conjunto, os quais não possuem qualquer ordem associada. 
+Conjunto é uma estrutura que agrupa objetos e constitui uma base para construir outras estruturas mais complexas. Uma coleção de coisas (não) ordenadas. Uma definição seria que conjunto é uma coleção de "zero" ou "mais objetos" distintos, esses chamados elementos do conjunto, os quais não possuem qualquer ordem associada. Sem repetições.
 ex: Conjunto de vogais, digitos, brasileiros. 
 
 ##### Elemento
@@ -44,7 +46,9 @@ B $\nsubseteq$ A, porque $\exists$ 6**∈**B e 6∉A
 B não está contido em A, porque 6 pertence a B e não pertence a A. 
 
 ##### Ponto importante:
-A notação correta de está contido é $\subseteq$. Não apenas o $\subset$, esse C sem underline. Porque dessa forma cabe dizer que B é tanto subconjunto como também pode até ser o próprio conjunto A, por igualdade de elementos. Por lógica, todo conjunto está contido nele mesmo. A gente só deveria usar a ideia de contido ($\subset$) quando a cardinalidade (qtd de elementos) é diferente. Já quando existe certeza de identidade, pode usar o $\subseteq$. Quando um está contido no outro, e outro nele, e um é o outro, e ele é o outro. 
+A notação correta de está contido é $\subseteq$. Não apenas o $\subset$, esse sem underline. 
+Porque $\subseteq$ diz que B é tanto subconjunto como também pode até ser o próprio conjunto A, por igualdade de elementos. 
+Por lógica, todo conjunto está contido nele mesmo. A gente só deveria usar a ideia de contido ($\subset$) quando a cardinalidade (qtd de elementos) é diferente. Já quando existe certeza de identidade, pode usar o $\subseteq$. Quando um está contido no outro, e outro nele, e um é o outro, e ele é o outro. 
  
 ##### Conjunto vazio
 Conjunto vazio está contido em todos os conjuntos $\emptyset$. E ele sempre é um conjunto! Aquele que não possui elementos, de cardinalidade # A = 0
@@ -54,21 +58,32 @@ $A = {\emptyset \mid \emptyset \text{ é conjunto de qualquer conjunto}}$
 Já o conjunto unitário: conjunto de elemento único. Cardinalidade: # A=1
 ex: Conjunto de todos os jogadores chamados Pelé. 
 
+##### Conjunto unitário
+Constituido por um único elemento. Sendo esse conjunto de conjuntos unitários infinito. 
+
 ### Conjunto Infinito
 Não pode listado, eles são representado por Compreensão.
 
-### Exercícios
-1 - Descreva de forma alternativa (usando outra forma de notação) e diga se é finito ou infinito. Se possível, dê sua cardinalidade. 
-a) Todos os numeros inteiros maiores que 10. 
-resposta: infinitos A = {X ∈ Z | x > 10 }
-b) {1,3,4,5,...}. Infinito pela representação por compreensão. 
-resposta: infinitos b = {x | x é um número ímpar}
-c) Todos os países do mundo . 
-resposta: c = { x | x é um país do mundo}, finito # C=196
-d) A linguagem de programação python. 
-resposta: { x | x é um programa em python}, discutível sobre a finidade. 
+Os conjuntos podem ser Reais, Naturais, Inteiro, Racionais, Irracionais e complementares. 
 
-2- Para A = {1}; B= {1,2} e C={{1}, 1}, marque as alternativas corretas. 
+
+![[Pasted image 20230927104355.png]]
+
+### Exercícios
+**1 - Descreva de forma alternativa (usando outra forma de notação) e diga se é finito ou infinito. Se possível, dê sua cardinalidade.**
+a) Todos os numeros inteiros maiores que 10. 
+R: infinitos A = {X ∈ Z | x > 10 }
+
+b) {1,3,4,5,...}. I
+R: b = {x | x é um número ímpar} Infinito pela representação por compreensão. Conjunto de todos os elementos x, tal que x é um número ímpar
+
+c) Todos os países do mundo . 
+R: c = { x | x é um país do mundo}, finito # C=196. Conjunto de todos os elementos x, tal que x é um país do mundo.
+
+d) A linguagem de programação python. 
+R: { x | x é um programa em python}, discutível sobre a finidade. Conjunto de todos os elementos x, tal que x é um programa python.
+
+**2- Para A = {1}; B= {1,2} e C={{1}, 1}, marque as alternativas corretas.**
 a) A C B (Verdadeiro, relação entre conjunto é de continência e todos os elementos de A estão contidos em B)
 b) A ⊆ B (Verdadeiro, pois a relação entre conjuntos é de continência, onde todos os elementos de A estão contidos em B, assim como A é o próprio conjunto B)
 c) A **∈** B (Falso, pois não existe relação de pertinência entre conjuntos)
@@ -85,7 +100,10 @@ m) ∅ ∉  C (Verdadeiro, relação entre conjunto (nesse caso o conjunto vazio
 n) ∅ ⊆ C (Verdadeiro, todo conjunto vazio está contido em qualquer conjunto)
 
 Exercício para prova
-- [ ] Treine formas de escrita de notações de representação de conjuntos
+- [x] Treine formas de escrita de notações de representação de conjuntos
+
+##### Observação - Compilador x pertinência à linguaguem.
+Um compilador de linguaguem de programação é um sofware que traduz um programa escrito na linguaguem de progrmação (linguagem fonte) para um código executável no sistema computador (linguaguem objeto). Em geral, um compilador é estrurado em duas grandes partes: análise e síntese. Resumidamente, a análise verifica se um dado programa fonte **p** é, de fato, um programa válido para a linguaguem L em questão, ou seja, verifica se: p $\in$ L
 
 ## Lógica
 
@@ -106,7 +124,7 @@ q: Buenos aires é capital venezuelana. v(q)=F
 Composição de proposições. c (^) and (e), ou (v) or || (ou), ~ (negação), -> (se, então), <-> (bicondicionado). 
 
 Ex: Windows é SO e Pascal é linguagem de programação. 
-Julga windows é SO. Julga se Pascal é linguagguem de programação. E julga a frase inteira. 
+Julga windows é SO. Julga se Pascal é linguaguem de programação. E julga a frase inteira. 
 
 ex: A=B, se, e somente se A C B ^ B C A. Todos os elementos de um são elementos de outros. 
 
@@ -135,7 +153,6 @@ V | F | f
 F | V | f
 F | F | f
 
-Então, para determinar a quantidade de linhas da tabela verdade, 2 ^n onde n é o nº proposições.   
 Ex: Windows é SO e Pascal é linguagem de programação. 
 #### Disjunção (v)
 Basta que uma das proposições seja verdadeira para resultado ser verdadeiro. Para a falsidade, as proposições precisam ser todas falsas. Também conhecido como arroz de festa
@@ -148,6 +165,5 @@ F | V | V
 F | F | F
 
 
-
-
+**OBS**: Então, para determinar a quantidade de linhas da tabela verdade, 2 ^n onde n é o nº proposições.   
 
