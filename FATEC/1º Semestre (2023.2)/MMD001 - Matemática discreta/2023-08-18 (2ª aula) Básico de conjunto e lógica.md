@@ -46,10 +46,11 @@ B $\nsubseteq$ A, porque $\exists$ 6**∈**B e 6∉A
 B não está contido em A, porque 6 pertence a B e não pertence a A. 
 
 ##### Ponto importante:
-A notação correta de está contido é $\subseteq$. Não apenas o $\subset$, esse sem underline. 
+A notação correta pode ser $\subseteq$. Não apenas o $\subset$, esse sem underline. 
 Porque $\subseteq$ diz que B é tanto subconjunto como também pode até ser o próprio conjunto A, por igualdade de elementos. 
 Por lógica, todo conjunto está contido nele mesmo. A gente só deveria usar a ideia de contido ($\subset$) quando a cardinalidade (qtd de elementos) é diferente. Já quando existe certeza de identidade, pode usar o $\subseteq$. Quando um está contido no outro, e outro nele, e um é o outro, e ele é o outro. 
- 
+
+Portanto, {1,2, 3} $\subseteq$ {3,3,3,2,2,1}. As repetições de elementos podem ser desconsideradas e isso não implica em uma cardinalidade distinta, portanto, um é subconjunto e igual ao outro. 
 ##### Conjunto vazio
 Conjunto vazio está contido em todos os conjuntos $\emptyset$. E ele sempre é um conjunto! Aquele que não possui elementos, de cardinalidade # A = 0
 ex: Conjunto de todos os brasileiros com mais de 300 anos. 
@@ -84,10 +85,15 @@ d) A linguagem de programação python.
 R: { x | x é um programa em python}, discutível sobre a finidade. Conjunto de todos os elementos x, tal que x é um programa python.
 
 **2- Para A = {1}; B= {1,2} e C={{1}, 1}, marque as alternativas corretas.**
+
 a) A C B (Verdadeiro, relação entre conjunto é de continência e todos os elementos de A estão contidos em B)
+
 b) A ⊆ B (Verdadeiro, pois a relação entre conjuntos é de continência, onde todos os elementos de A estão contidos em B, assim como A é o próprio conjunto B)
+
 c) A **∈** B (Falso, pois não existe relação de pertinência entre conjuntos)
+
 d) A = B (Falso, não existe igualdade entre os conjuntos devido a diferença de cardinalidade)
+
 e) A C C (Verdadeiro, pois todos os elementos de A -> 1 estão contidos em C)
 f) A ⊆ C (Verdadeiro, pois todos os elementos de A-> estão contidos em C, todo conjunto está contido nele mesmo)
 g) A **∈** C (Verdadeiro, pois o conjunto pertence ao conjunto C)
@@ -96,7 +102,9 @@ i) 1 **∈** A (Verdadeiro, elemento 1 pertence ao conjunto A)
 j) 1 **∈** C (Verdadeiro, elemento 1 pertence ao conjunto de C)
 k) {1} **∈** A (Falso, não há essa pertencimento entre conjuntos)
 e) {1} **∈** C (Verdadeiro, o conjunto {1} está como elemento de conjunto C )
+
 m) ∅ ∉  C (Verdadeiro, relação entre conjunto (nesse caso o conjunto vazio) e outro não pode se dar por continência)
+
 n) ∅ ⊆ C (Verdadeiro, todo conjunto vazio está contido em qualquer conjunto)
 
 Exercício para prova
