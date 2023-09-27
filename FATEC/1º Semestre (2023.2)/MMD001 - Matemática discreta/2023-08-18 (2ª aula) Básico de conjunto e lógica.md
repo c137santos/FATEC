@@ -56,11 +56,11 @@ Conjunto vazio está contido em todos os conjuntos $\emptyset$. E ele sempre é 
 ex: Conjunto de todos os brasileiros com mais de 300 anos. 
 $A = {\emptyset \mid \emptyset \text{ é conjunto de qualquer conjunto}}$
 
-Já o conjunto unitário: conjunto de elemento único. Cardinalidade: # A=1
-ex: Conjunto de todos os jogadores chamados Pelé. 
-
+Isso significa que o conjunto vazio é um subconjunto de qualquer conjunto, incluindo o conjunto no qual está contido. Portanto, o conjunto vazio é um subconjunto de si mesmo
 ##### Conjunto unitário
 Constituido por um único elemento. Sendo esse conjunto de conjuntos unitários infinito. 
+Já o conjunto unitário: conjunto de elemento único. Cardinalidade: # A=1
+ex: Conjunto de todos os jogadores chamados Pelé. 
 
 ### Conjunto Infinito
 Não pode listado, eles são representado por Compreensão.
@@ -75,10 +75,10 @@ Os conjuntos podem ser Reais, Naturais, Inteiro, Racionais, Irracionais e comple
 a) Todos os numeros inteiros maiores que 10. 
 R: infinitos A = {X ∈ Z | x > 10 }
 
-b) {1,3,4,5,...}. I
+b) {1,3,4,5,...}. 
 R: b = {x | x é um número ímpar} Infinito pela representação por compreensão. Conjunto de todos os elementos x, tal que x é um número ímpar
 
-c) Todos os países do mundo . 
+c) Todos os países do mundo
 R: c = { x | x é um país do mundo}, finito # C=196. Conjunto de todos os elementos x, tal que x é um país do mundo.
 
 d) A linguagem de programação python. 
@@ -94,7 +94,7 @@ c) A **∈** B (Falso, pois não existe relação de pertinência entre conjunto
 
 d) A = B (Falso, não existe igualdade entre os conjuntos devido a diferença de cardinalidade)
 
-e) A C C (Verdadeiro, pois todos os elementos de A -> 1 estão contidos em C)
+e) A $\subset$ C (Verdadeiro, pois todos os elementos de A -> 1 estão contidos em C)
 f) A ⊆ C (Verdadeiro, pois todos os elementos de A-> estão contidos em C, todo conjunto está contido nele mesmo)
 g) A **∈** C (Verdadeiro, pois o conjunto pertence ao conjunto C)
 h) A = C (Falso, não existe a igualdade)
