@@ -3,12 +3,12 @@
 ## Conceitos básicos da teoria de conjuntos.
 
 ### Conjunto Finitos
-Conjuntos finitos podem ser listado (escreve o conjunto de 1 a 10 dos naturais), denotado por propriedade, por extensão ou compreensão (representações como A={1, 2, 3...100}, fica claro que é um conjunto de 1 à 100 dos naturais.
+Conjuntos finitos podem ser listado (escreve o conjunto de 1 a 10 dos naturais), denotado por propriedade, por extensão ou compreensão. Representar A={1, 2, 3...100}, fica claro que é um conjunto de 1 à 100 dos naturais por compreensão.
 ##### Representação
 Usa-se as letras maiúsculas do alfabeto, e podem ser representados por Listamento, Propriedade ou Compreensão (quando é possível compreender quem está inserido nesse conjunto pela lógica ou projeção).
 #### Conjunto 
 ##### Conceito
-Conjunto é uma estrutura que agrupa objetos e constitui uma base para construir mais estruturas mais complexas. Uma coleção de coisas (não) ordenadas. Uma definição seria que conjunto é uma coleção de "zero" ou "mais objetos" distintos chamados elementos do conjunto, os quais não possuem qualquer ordem associada. 
+Conjunto é uma estrutura que agrupa objetos e constitui uma base para construir outras estruturas mais complexas. Uma coleção de coisas (não) ordenadas. Uma definição seria que conjunto é uma coleção de "zero" ou "mais objetos" distintos, esses chamados elementos do conjunto, os quais não possuem qualquer ordem associada. 
 ex: Conjunto de vogais, digitos, brasileiros. 
 
 ##### Elemento
@@ -17,7 +17,7 @@ ex: $vogais=\{a, e, i, o, u\}$
 
 ##### Relação de pertinência (e): 
 É uma relação do elemento para com o conjunto é de pertinência. ex: seja $A=\{a,e,i\}$ um conjunto. 
-Um elemento pertence ao conjunto $\in$, um conjunto nunca pertence ao elemento. 
+Um elemento pertence ao conjunto **$\in$, um conjunto nunca pertence ao elemento. 
 Sempre do mais abrangente ao mais restrito.
 $\notin$ -> não pertence.
 $\in$-> pertence.

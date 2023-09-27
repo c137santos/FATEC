@@ -36,7 +36,7 @@ Prof. Marcos Allan - marcosallan@atec.sp.gov.br
 - p3 - 08/12/23
 - A espera de um milagre ? 15/12/23
 
-* Atividade oficial ,será avisada uma semana antes.
+* Atividade oficial, será avisada uma semana antes.
 * Atividade bônus, será surpresa.
 * Certificados - 4 certificados, somatório valer 1 ponto
 * Programinhas - 10 programas. 5 até 29/09/23, 5 até 08/12/23. 
