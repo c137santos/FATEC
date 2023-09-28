@@ -115,6 +115,7 @@ Um compilador de linguaguem de programação é um sofware que traduz um program
 
 ## Lógica
 
+Baseado na lógica booleana, onde os estudos dos prinípios e métodos usados para distinguir sentenças verdadeira de falsas.
 ##### Proposicional  
 **Proposição** é toda sentença declarativa/afirmativa sujeita a julgamento. São dois resultados possíveis, falso ou verdadeiro. 
 ex: O Brasil é um país justo. Buenos Aires é a capital da Venezuela. 
