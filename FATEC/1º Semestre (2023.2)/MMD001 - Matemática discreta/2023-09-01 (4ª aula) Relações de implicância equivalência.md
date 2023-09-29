@@ -26,27 +26,22 @@ Conceito de igualdade. Uma relação é logicamente equivalente a outra se a ope
 
 Porque um conjunto é igual ao outro se tiver os mesmos elementos. 
 #### Operador: bicondicional 
-Dadas duas proposições p e q
-p <--> q (lê-se "p é equivalente logicamente a q"),  se e somente p <-> q for uma tautologia 
+Dadas duas proposições p e q, p <--> q (lê-se "p é equivalente logicamente a q"),  se e somente p <-> q for uma tautologia 
 
 ex: verifique!
 p <-> q <--> (p->q) $\land$(q->p) 
 
-P | Q | P <-> Q | (P <-> Q) <-> (P -> Q) $\land$ (Q -> P)
-
-
-
-![[Pasted image 20230901193546.png]]
+P | Q | P <-> Q = A | (P -> Q) = B  | Q -> P  = C| B $\land$ C = D | A <-> D
+---|---|-- | --| ---| ---|--|
+V | V | V | V | V | V | V
+V | F | F | F | V | F | V
+F | V | F | V | F | F | V
+F | F | V | V | V | V | V
 
 
 Verifique p $\vee$ (q$\land$r) <$\Rightarrow$  (p$\vee$q)$\land$(p$\vee$r)
 
 ![[Pasted image 20230901201311.png]]
-Verifique p <->q^q <$\Rightarrow$ p -> q
-
-
-Rightarrow vee land
-
 #### Operações com conjuntos
 
 Não reversíveis: união e a intersecção.
