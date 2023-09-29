@@ -55,9 +55,10 @@ d) B x C = { <a;1>; <a;2>; <a;3>,
 					<b;1>; <b;2>;<b;3> }
 
 #### União disjunta
-Suponha conjunto A e B, a operação de união A u B considera que elementos com mesmao identificação nos dois conjuntos, (x $\in$ A $\land$ x $\in$ B) sejam considerados uma única vez no conjunto resultante. 
-Na união disjuntiva, x existirá uma única vez em A U B.
+Suponha conjunto A e B, a operação de união A u B considera que elementos com mesma identificação nos dois conjuntos, (x $\in$ A $\land$ x $\in$ B) sejam considerados uma única vez no conjunto resultante.  Isso é a união em operação do produto cartesiano.
+Na união disjuntiva, x existirá uma única vez em A U B. E por isso merece sua identificação. 
 Essa união disjuntiva serve para identificar o conjunto originário, portanto, deve-se escrever que: A + B
-A+ B = {<a,A} | a $\in$ A } U {<b,B> | b $\in$ B}
+A+ B = {<a,A} | a $\in$ A } U {<a,B> | a $\in$ B}  U {<b,B> | b $\in$ B} 
+Diante dessa formula, sabemos que temos o conjunto A={a} e B={a,b} 
 
 
