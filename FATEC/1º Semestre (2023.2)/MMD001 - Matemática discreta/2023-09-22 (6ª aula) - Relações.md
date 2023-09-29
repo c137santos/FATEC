@@ -14,9 +14,9 @@ Partiremos do princípio do produto cartesiano. O par ordenado tem sua represent
 R de A em B, R $\in$ A x B
 Suponha que A e B (conjunto) e R uma relação pequena binária de A em B. Então R é um subconjunto do produto cartesiano de A em B. Sendo que A é o conjunto de domínio/origem/partida e B é o conjunto da contrapartida/destino/chegada de R. 
 
-Ex: sejam A={ 1,2,3,4} e B = { a,e,i}. R ={<1,a>, <1,e>, <1,i>} uma relação de A e B. 
+Sejam A = {1,2,3,4} e B = {a,e,i}, e R={<1,a>, <1,e>, <1,i>}. Uma relação de A e B. Essa estabelece uma matriz de relação total. Quando todos os elementos da partida se relacionam com os elementos da chegada. 
 
-Sejam A = {1,2,3,4} e B = {a,e,i}, e R={<1,a>, <1,e>, <1,i>} Essa estabelece uma matriz de relação total. Quando todos os elementos da partida se relacionam com os elementos da chegada. 
+No caso do conjunto A = {0, 1}, uma relação binária simples seria uma relação que associa cada elemento 0 e 1 a si mesmo. Portanto, a única relação binária simples em A seria a relação de identidade, que é representada pelos pares ordenados {(0, 0), (1, 1)}. Uma binária composto seria de 2^(n^2). 
 
 #### Endorrelação
 
@@ -38,6 +38,7 @@ R = {(1, 2), (2, 3), (3, 1), (4, 4), (5, 5)}
 | 4        |    4     |
 | 5        |    5     |
 
+Caso fosse necessário A (P(A)), o conjunto das partes de A, consiste em todos esses 32 subconjuntos possíveis, incluindo o conjunto vazio e o próprio conjunto
 
 ![[Pasted image 20230929160025.png]]
 
