@@ -1,30 +1,40 @@
 ### Relações de implicância e equivalência
 
-### Implicância ($\Rightarrow$) 
-Conceito de teorema [o que é isso?](https://piazza.com/class_profile/get_resource/h9vrn1qe5ig6i/hcn7d17z6vf4cq) (só existe na relação de implicância). Uma relação implica logicamente na outra se a operação final for tautológica
-#### Operador: "condicional ($\rightarrow$)"
-dada duas proposições p ^ q
-p $\Rightarrow$ q
-Lê-se: "p implica logicamente em q"
-se e somente se:
-p -> q é uma tautologia
-ex: adição: $\Rightarrow$ p $\vee$ q
-simplificação: p $\land$ q $\Rightarrow$ p
-![[Pasted image 20230901191847.png]]
+Formulas lógicas são bases na definição induvitas, ou seja, quando uma sentença lógica é corretamente construída. 
 
-### Equivalência (<-->)
-Conceito de igualdade. Uma relação é logicamente equivalente a outra se a operação final for tautologica. Equivalência significa um operador como um =, .
+### Implicância ($\Rightarrow$) 
+Conceito de teorema [o que é isso?](https://piazza.com/class_profile/get_resource/h9vrn1qe5ig6i/hcn7d17z6vf4cq) (só existe na relação de implicância). Uma relação implica logicamente na outra se a operação final for tautológica. Uma tautologica é o resultado verdadeiro em todas as afirmativas. 
+#### Operador: "condicional ($\rightarrow$)"
+Dada duas proposições p e q. Então, para estabalecer uma relação de implicância, usaremos do operador condicional. Somente o operador condicional que pode estabelecer implicância, portanto, proposições verdadeiras podem ser verdadeiras ou falsas, e todas proposições falsas geram conclusões verdadeiras. 
+
+p $\Rightarrow$ q (Lê-se: "p implica logicamente em q"), se e somente se p -> q for uma tautologia. p = q.
+ex: adição: p $\Rightarrow$ p $\vee$ q
+simplificação: p $\land$ q $\Rightarrow$ p
+
+P | Q | P $\vee$ Q | P $\rightarrow$  P $\vee$ Q | P $\land$ Q | P $\land$ Q $\rightarrow$ P
+--|--|---|----|---|---
+V | V | V | V | V | V 
+V | F | V | V | F | V
+F | V | V | V | F | V
+F | F | F | V | F | v
+
+Ou seja, só foi possível afirmar que p $\Rightarrow$ q na operação proposta, porque quando comparado as operações de adição e simplificação, houve um resultado tautológico.
+### Equivalência (<--->)
+Existe uma relação de equivalência quanto há uma tautologia por comparação (bicondicional) por resultados iguais. 
+p $\vee$ (p $\land$ r) <-> (p $\vee$ q) $\land$ (p$\vee$r)
+Conceito de igualdade. Uma relação é logicamente equivalente a outra se a operação final for tautologica. Equivalência significa um operador como um =.
 
 Porque um conjunto é igual ao outro se tiver os mesmos elementos. 
 #### Operador: bicondicional 
-Dadas duas proposições p $\land$ q
-p <-> q
-lê-se "p é equivalente logicamente a q"
-se e somente: 
-p <-> q é uma tautologia 
+Dadas duas proposições p e q
+p <--> q (lê-se "p é equivalente logicamente a q"),  se e somente p <-> q for uma tautologia 
 
 ex: verifique!
 p <-> q <--> (p->q) $\land$(q->p) 
+
+P | Q | P <-> Q | (P <-> Q) <-> (P -> Q) $\land$ (Q -> P)
+
+
 
 ![[Pasted image 20230901193546.png]]
 
