@@ -62,7 +62,7 @@ Constituido por um único elemento. Sendo esse conjunto de conjuntos unitários 
 Já o conjunto unitário: conjunto de elemento único. Cardinalidade: # A=1
 ex: Conjunto de todos os jogadores chamados Pelé. 
 
-### Conjunto Infinito
+#### Conjunto Infinito
 Não pode listado, eles são representado por Compreensão.
 
 Os conjuntos podem ser Reais, Naturais, Inteiro, Racionais, Irracionais e complementares. 
@@ -107,9 +107,6 @@ m) ∅ ∉  C (Verdadeiro, relação entre conjunto (nesse caso o conjunto vazio
 
 n) ∅ ⊆ C (Verdadeiro, todo conjunto vazio está contido em qualquer conjunto)
 
-Exercício para prova
-- [x] Treine formas de escrita de notações de representação de conjuntos
-
 ##### Observação - Compilador x pertinência à linguaguem.
 Um compilador de linguaguem de programação é um sofware que traduz um programa escrito na linguaguem de progrmação (linguagem fonte) para um código executável no sistema computador (linguaguem objeto). Em geral, um compilador é estrurado em duas grandes partes: análise e síntese. Resumidamente, a análise verifica se um dado programa fonte **p** é, de fato, um programa válido para a linguaguem L em questão, ou seja, verifica se: p $\in$ L
 
@@ -131,16 +128,15 @@ q: Buenos aires é capital venezuelana. v(q)=F
 
 #### Análise de conectivos
 Composição de proposições. c (^) and (e), ou (v) or || (ou), ~ (negação), -> (se, então), <-> (bicondicionado). 
-
+Os conectivos lógicos são operadores usados em lógica proposicional para combinar proposições (afirmações) de maneira a formar novas proposições. Conjunção, negação, disjunção, implicação, bicondicional. 
+    
 Ex: Windows é SO e Pascal é linguagem de programação. 
 Julga windows é SO. Julga se Pascal é linguaguem de programação. E julga a frase inteira. 
 
 ex: A=B, se, e somente se A C B ^ B C A. Todos os elementos de um são elementos de outros. 
 
 #### Negação
-(~) Basta negar o verbo colocando o não à frente da proposição. 
-Tabela verdade
-
+(~) Basta negar o verbo colocando o não à frente da proposição. .Tabela verdade
 
 p  | ~P
 --------- | ------
