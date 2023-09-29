@@ -119,8 +119,9 @@ vogais = {a;e;i;o;u}
 pares = {0;3;4;...}
 DUV = {a;e;i;o;u;0;1;2;3;...9}
 DUP = {0;1;2;3;4;...9;10...;12;14...}
+R U Q = R
 
-#### Intersecção
+#### Intersecção (∩) 
 Entre cortes. Há a necessidade de simultaneidade dos elementos. Corresponde a conjunção na lógica, porque o elemento precisa estar tanto em B quanto em A
 
 ![[Pasted image 20230901214545.png]]
