@@ -47,36 +47,14 @@ Verifique p $\vee$ (q$\land$r) <$\Rightarrow$  (p$\vee$q)$\land$(p$\vee$r)
 Não reversíveis: união e a intersecção.
 Reversíveis: complemento, conjunto das partes e produto cartesiano, união disjunta. 
 
-<table border="1"> 
-<tr> 
-	<th> Lógica </th>
-	<th> Álgebra de conjuntos </th>
-</tr>
-<tr> 
-	<th> Conectivo lógico </th>
-	<th> Operações sobre conjuntos</th>
-</tr>
-<tr> 
-	<td> Negação</td>
-	<td> complemento</td>
-</tr>
-<tr> 
-	<td> disjunção</td>
-	<td> União </td>
-</tr>
-<tr> 
-	<td> Conjunção </td>
-	<td> Intersecção </td>
-</tr>
-<tr> 
-	<td> Implicância </td>
-	<td> Continência </td>
-</tr>
-<tr>
-	<td> Equivalência</td>
-	<td> Igualdade </td>
-</tr>
-</table>
+| Lógica         | Álgebra de conjuntos  |
+|----------------|-----------------------|
+| Conectivo lógico | Operações sobre conjuntos |
+| Negação        | Complemento           |
+| Disjunção      | União                 |
+| Conjunção      | Intersecção           |
+| Implicância    | Continência           |
+| Equivalência   | Igualdade             |
 
 #### Diagrama de Venn-Euller
 
