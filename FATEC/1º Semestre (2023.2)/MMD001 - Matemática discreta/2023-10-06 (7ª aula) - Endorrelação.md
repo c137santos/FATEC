@@ -53,7 +53,38 @@ c) Assimétrica: ($\forall$ a $\in$ A ) ($\forall$b$\in$A )¬ (aRb -> bRa)
 - [ ] Insira um exemplo de reflexiba e antissimetrica. 
 
 d) Transitiva ($\forall$ a $\in$ A) ($\forall$ b $\in$ A) ($\forall$ c $\in$ A) ($\forall$ a $\in$ A)(a R b ^ b R c -> a R c)
-**Na matriz** Não é vantajosa. 
+**Na matriz** Não é vantajosa. Não é possível definir se realmente existe uma transitividade apenas pela análise da matriz.
 **No grafo** Dá para deixar explicito todos os caminhos entre 2 nodos. 
 ex: A = {0,1,2,3}
+R = {(0,1);(0,2);(1,2),(3,3)}
 -[ ] Represente esse grafo
+
+E Quando não satisfaz as propriedades? 
+Fecho de uma endorrelação. 
+É a menor endorelação possível que satisfaça uma propriedade: reflexiva, simétrico ou transitivo. 
+
+- Dado R uma endorrelação então. 
+####  Fecho Reflexivo
+Fecho reflexivo: R U {(a,a) | a$\in$ A} - É a união da Relação de pares ordenados suficientes para satisfazer a propriedade.
+
+Ou seja, é preciso preserva a relação original e inserir **pares ordenados suficiente para satisfazer a proriedade**. Se eu preciso que ela satisfazer a propriedade que se deseja. 
+A irreflexiva não tem fecho, porque você precisa tirar.
+Ex: seja A ={0,1,2} um conjunto e R={(0,1),(1,2)} uma endorrelão. 
+{Fecho reflexivo}{R}= {(0,0),(0,1),(1,1),(1,2),(2,2)}. 
+É a união do que existia com que precisa. Ou seja, é preciso preservar. 
+
+- [ ] Desenhe as matrizes, uma anterior e uma composta pelo fecho reflexivo. 
+
+Assim, R $\subset$ fecho {R}. Toda relação é subconjunto do fecho. 
+
+-[ ] Para que serve o fecho transitivo na computação em relação ao rastreio. 
+
+### Fecho simétrico. 
+ {fecho-simetrico{R}} = R U {b;a}/ (a;b) $\in$ R. 
+ Ex: R =  {(0,1); (1,2)} de A={0,1,2}
+ Então, o {fecho-simétrico} - {R}={(0,1), (1,0),(1,2),(2,1)} 
+É só virar os pares ordenados. 
+#### Frases fortes que ainda não assimilei. 
+Todo fecho é uma endorrelação e subproduto da matriz. 
+Fecho é uma relação ampliada. 
+Produto cartesiano é reflexivo, simétrico e transitivo. 
