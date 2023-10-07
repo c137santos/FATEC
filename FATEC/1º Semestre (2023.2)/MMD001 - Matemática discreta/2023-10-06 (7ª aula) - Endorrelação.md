@@ -84,6 +84,18 @@ Assim, R $\subset$ fecho {R}. Toda relação é subconjunto do fecho.
  Ex: R =  {(0,1); (1,2)} de A={0,1,2}
  Então, o {fecho-simétrico} - {R}={(0,1), (1,0),(1,2),(2,1)} 
 É só virar os pares ordenados. 
+
+### Fecho transitivo
+1ª Se (a,b) $\in$ R, então (a,b) $\in$ Fecho-transitivo (R)
+2º se (a,b) e (b,c) $\in$ fecho-transitivo(r), então (a,c) $\in$ fecho-transitivo(R)
+ex: Seja a ={1,2,3,4,5}, conjunto e a relação. E ={(1,2);(1,5);(2,3);(3,4)}
+fecho-{transitivo} - {R} = {(1,2), (1,3),(1,4), (1,5),(2,3),(2,4),(3,4)}.
+Preciso observar que a combinação deve ver, se b está em Y, agora ele deverá está em X, então A precisa conectar com C. 
+ - [ ] Faça um programa que passa uma relação para fecho simétrico, transitivo e depois reflexivo, depois suas combinações
+
+
+
+
 #### Frases fortes que ainda não assimilei. 
 Todo fecho é uma endorrelação e subproduto da matriz. 
 Fecho é uma relação ampliada. 
