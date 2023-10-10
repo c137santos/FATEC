@@ -1,6 +1,6 @@
 #endorrelação
 ### Endorrelação 
-Classicação de dados, semântica de sistema concorrente. "Endorrelação é uma 'operação' interna de conjuntos"
+Classicação de dados, semântica de sistema concorrente. "Endorrelação é uma 'operação' interna de conjuntos". R: A->A. Portanto, são enrorrelações (N,<), (Z,<), (Q,=), (P(A)<C) 
 * Propriedades
 1. Reflexiva: Todo elemento do conjunto relaciona consigo mesmo. Como por exemplos a igualdade sobre número reais, numeros naturais. Porque a diagonal principal apresenta valores lógicos verdadeiros
 2. Irreflexiva: A diagonal principal os valores lógicos não são verdadeiros, como por exemplos, matrizes nulas, operação vazia. 
