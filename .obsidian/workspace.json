@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9978990dee2546f7",
+            "id": "29f274b8f3c830d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/API/Kick-off do Trabalho de API do 1º Semestre.md",
+                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-20 (8ª aula) - Indução matemática.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 498.5
+    "width": 498.5,
+    "collapsed": true
   },
   "right": {
     "id": "b297e8e6c155690d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/API/Kick-off do Trabalho de API do 1º Semestre.md",
+                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-20 (8ª aula) - Indução matemática.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/API/Kick-off do Trabalho de API do 1º Semestre.md",
+                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-20 (8ª aula) - Indução matemática.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/API/Kick-off do Trabalho de API do 1º Semestre.md"
+                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-20 (8ª aula) - Indução matemática.md"
               }
             }
           },
@@ -157,34 +158,35 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9978990dee2546f7",
+  "active": "2c3c2ed63227d261",
   "lastOpenFiles": [
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-06 (7ª aula) - Endorrelação.md",
-    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-01 (4ª aula) Relações de implicância equivalência.md",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-18 (2ª aula) - Básico de conjunto e lógica.md",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-22 (6ª aula) - Relações.md",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-20 (8ª aula) - Indução matemática.md",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-15 (5ª aula) -  Operações reversíveis.md",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-01 (4ª aula) - Relações de implicância equivalência.md",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-25 ( 3ª aula ) - Condicional.md",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-11 (1ª aula) - Plano de aula.md",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/Sem título.md",
+    "FATEC/1º Semestre (2023.2)/API/Kick-off do Trabalho de API do 1º Semestre.md",
     "imgs/Pasted image 20230929160025.png",
     "imgs/Pasted image 20230901210810.png",
     "imgs/Pasted image 20230901205940.png",
     "imgs/Pasted image 20230817193040.png",
     "Untitled.md",
     "Sem título.canvas",
-    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-18 (2ª aula) Básico de conjunto e lógica.md",
-    "2023-10-20.md",
     "imgs/Pasted image 20230901211618.png",
     "imgs/Pasted image 20231019095521.png",
     "imgs/Pasted image 20231019094154.png",
     "imgs/Pasted image 20231019094057.png",
     "imgs/Pasted image 20231019094012.png",
-    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-22 (6ª aula) - Relações.md",
     "imgs/Pasted image 20230901212938.png",
-    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-25 ( 3ª aula ) Condicional.md",
-    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-11 (1ª aula) Plano de aula.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/PROVA.md",
-    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-15 (5ª aula)  Operações reversíveis.md",
     "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2023-09-28 (6º aula) Construção de Backlog.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/Untitled.md",
     "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2023-08-31 (3ª aula) Hardware.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/Materiais de Estudo/Matematica_Discreta_para_a_Computacao_e (2).pdf",
-    "FATEC/1º Semestre (2023.2)/API/Kick-off do Trabalho de API do 1º Semestre.md",
     "FATEC/1º Semestre (2023.2)/IAL001 - Algoritmos/2023-08-17  (2ª aula) Lógica.md",
     "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2023-08-17 (2ª aula) Sistemas Operacionais.md",
     "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2023-08-01 (1ª aula) Plano de Aula e Processadores.md",

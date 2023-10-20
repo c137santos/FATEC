@@ -1,3 +1,4 @@
+#implicancia #equivalencia #conjunto 
 ### Relações de implicância e equivalência
 
 Formulas lógicas são bases na definição induvitas, ou seja, quando uma sentença lógica é corretamente construída. 
