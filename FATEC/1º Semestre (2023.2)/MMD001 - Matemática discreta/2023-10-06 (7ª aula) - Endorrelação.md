@@ -1,23 +1,44 @@
 #endorrelação
 ### Endorrelação 
-Classicação de dados, semântica de sistema concorrente. "Endorrelação é uma 'operação' interna de conjuntos". R: A->A. Portanto, são enrorrelações (N,<), (Z,<), (Q,=), (P(A)<C) 
+Classicação de dados, semântica de sistema concorrente. "Endorrelação é uma 'operação' interna de conjuntos". R: A->A. Portanto, são endorrelações de um conjunto A pode ser representada como (A,R). Assim como o conjunto A tem as seguintes enrorrelações (N,<), (Z,<), (Q,=), (P(A)<C). A letra 'R' representa a relação.
+
 * Propriedades
-1. Reflexiva: Todo elemento do conjunto relaciona consigo mesmo. Como por exemplos a igualdade sobre número reais, numeros naturais. Porque a diagonal principal apresenta valores lógicos verdadeiros
-2. Irreflexiva: A diagonal principal os valores lógicos não são verdadeiros, como por exemplos, matrizes nulas, operação vazia. 
-3. Simétrica: A parte de cima da diagonal principal é igual a parte debaixo. (MELHORA ISSO E BUSCA IMAGENS) 
-4. Antissimétrica (assimétrica): Parte de cima não é igual a parte debaixo. 
-5. Transitiva: Relação entre elementos, para ver na matrix é complicado, no grafo lembra muito a soma de vetores.
+1. **Reflexiva**: Todo elemento do conjunto relaciona consigo mesmo. Como por exemplos a igualdade sobre número reais, numeros naturais. Porque a diagonal principal apresenta valores lógicos verdadeiros.
+
+ ![[Pasted image 20231019094012.png]]
+
+3. **Irreflexiva**: A diagonal principal os valores lógicos não são verdadeiros, como por exemplos, matrizes nulas, operação vazia. 
+5. **Simétrica**: A parte de cima da diagonal principal é igual a parte debaixo. Simetria depende da diagonal principal.
+![[Pasted image 20231019094057.png]]
+6. **Antissimétrica** (assimétrica): Parte de cima não é igual a parte debaixo. ![[Pasted image 20231019094154.png]]
+7. **Transitiva**: Relação entre elementos, para ver na matrix é complicado, no grafo lembra muito a soma de vetores.
 
 #### Fechos de uma endorrelação. 
-a) Reflexiva: ($\forall$ a $\in$ A ) (a R a) - Qualquer que seja a que pertence a A, ele se relacionará com ele mesmo. 
+a) Reflexiva: ($\forall$ a $\in$ A ) (a R a) - Qualquer que seja o elemento 'a' que pertence ao conjunto 'A', esse se relacionará com ele mesmo. 
 **Na matriz**: A diagonal principal só apresenta valores lógicos verdadeiros. 
-**No grafo**: Todo nó possui uma aresta(arco) que sai e volta nele mesmo
+**No grafo**: Todo nó possui uma aresta(arco) que sai e volta nele mesmo. Lembra da dança do passarinho?
 ex: Seja a ={0,1,2,3,4} um conjunto que é R(A:=)
 R = {(0,0), (1,1), (2,2),(3,3),(4,4)}
 
-- [ ] Adicione a Matriz aqui. 
-- [ ] Adicione o Grafo. 
-- [ ] Justifique porque uma matriz pode ser reflexiva e não simétrica, enquanto se ela for isomorfa, ela será reflexiva e simétrica. 
+| A = | 0 | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|---|
+| 0 | 1 | 0 | 0 | 0 | 0 |
+| 1 | 0 | 1 | 0 | 0 | 0 |
+| 2 | 0 | 0 | 1 | 0 | 0 |
+| 3 | 0 | 0 | 0 | 1 | 0 |
+| 4 | 0 | 0 | 0 | 0 | 1 |
+
+![[Pasted image 20231019095521.png]]
+
+Justifique porque uma matriz pode ser reflexiva e não simétrica, enquanto se ela for isomorfa, ela será reflexiva e simétrica. 
+
+1. **Reflexividade**: Se todo elemento desse conjunto está relacionado a si mesmo. Na representação matricial de uma relação, isso se traduz em ter elementos não nulos na diagonal principal da matriz, indicando que cada elemento está relacionado a si mesmo.
+2. **Simetria**: Uma relação é simétrica se, para quaisquer dois elementos distintos A, se A está relacionado outro de A, e também há retorno. Em uma matriz de relação, a simetria é representada pela igualdade das entradas opostas em relação à diagonal principal.
+3. **Isomorfismo**: No contexto das matrizes de relação, o isomorfismo implica que duas relações têm a mesma estrutura básica, o que significa que uma relação pode ser mapeada na outra de forma a preservar as propriedades da relação. Isso inclui a preservação da reflexividade e da simetria entre as relações.
+
+Assim, uma matriz pode ser **reflexiva e não simétrica**, o que significa que todos os elementos da diagonal principal são não nulos, mas a igualdade das entradas opostas em relação à diagonal principal não é garantida. Por outro lado, se as relações são isomorfas, elas devem ser reflexivas e simétricas, o que implica que os elementos da diagonal principal devem ser não nulos e as entradas opostas em relação à diagonal principal devem ser iguais.
+
+EM REVISÃO
 
 b) Propriedade irreflexiva: ($\forall$ a $\in$ A)¬(a R a), qualquer que seja a partecente ao conjunto A, ele não vai se relacionar com ele mesmo. 
 **Na Matriz**: A diagonal principal só apresenta valores lógicos falsos
