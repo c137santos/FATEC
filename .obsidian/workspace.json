@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-01 (4ª aula) Relações de implicância equivalência.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e09807fba165fde8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-18 (2ª aula) Básico de conjunto e lógica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed84390d4247c176",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-06 (7ª aula) - Endorrelação.md",
+                "file": "FATEC/1º Semestre (2023.2)/API/Kick-off do Trabalho de API do 1º Semestre.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 498.5,
-    "collapsed": true
+    "width": 498.5
   },
   "right": {
     "id": "b297e8e6c155690d",
@@ -111,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-06 (7ª aula) - Endorrelação.md",
+                "file": "FATEC/1º Semestre (2023.2)/API/Kick-off do Trabalho de API do 1º Semestre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-06 (7ª aula) - Endorrelação.md",
+                "file": "FATEC/1º Semestre (2023.2)/API/Kick-off do Trabalho de API do 1º Semestre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-06 (7ª aula) - Endorrelação.md"
+                "file": "FATEC/1º Semestre (2023.2)/API/Kick-off do Trabalho de API do 1º Semestre.md"
               }
             }
           },
@@ -183,26 +157,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ed84390d4247c176",
+  "active": "9978990dee2546f7",
   "lastOpenFiles": [
-    "Pasted image 20231019095521.png",
-    "Pasted image 20231019094154.png",
-    "Pasted image 20231019094057.png",
-    "Pasted image 20231019094012.png",
-    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-22 (6ª aula) - Relações.md",
-    "Pasted image 20230901211618.png",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-06 (7ª aula) - Endorrelação.md",
-    "Pasted image 20230901212938.png",
-    "Pasted image 20230901214545.png",
-    "Pasted image 20230927104355.png",
-    "Pasted image 20230929142225.png",
-    "Pasted image 20230929142421.png",
-    "Pasted image 20230929160025.png",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-01 (4ª aula) Relações de implicância equivalência.md",
-    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-25 ( 3ª aula ) Condicional.md",
-    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-18 (2ª aula) Básico de conjunto e lógica.md",
-    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-11 (1ª aula) Plano de aula.md",
+    "imgs/Pasted image 20230929160025.png",
+    "imgs/Pasted image 20230901210810.png",
+    "imgs/Pasted image 20230901205940.png",
+    "imgs/Pasted image 20230817193040.png",
     "Untitled.md",
+    "Sem título.canvas",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-18 (2ª aula) Básico de conjunto e lógica.md",
+    "2023-10-20.md",
+    "imgs/Pasted image 20230901211618.png",
+    "imgs/Pasted image 20231019095521.png",
+    "imgs/Pasted image 20231019094154.png",
+    "imgs/Pasted image 20231019094057.png",
+    "imgs/Pasted image 20231019094012.png",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-22 (6ª aula) - Relações.md",
+    "imgs/Pasted image 20230901212938.png",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-25 ( 3ª aula ) Condicional.md",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-11 (1ª aula) Plano de aula.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/PROVA.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-15 (5ª aula)  Operações reversíveis.md",
     "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2023-09-28 (6º aula) Construção de Backlog.md",
@@ -231,7 +206,6 @@
     "FATEC/test",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta",
     "FATEC/1º Semestre (2023.2)/LPO001 - Comunicação e Expressão",
-    "FATEC/1º Semestre (2023.2)/LIN100 - Inglês I",
-    "FATEC/Untitled.md"
+    "FATEC/1º Semestre (2023.2)/LIN100 - Inglês I"
   ]
 }
