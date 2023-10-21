@@ -37,6 +37,32 @@ P(n): 1²+2²+...+n² = n(n+1) * (2n+1)/2 ; n>1
 	(k+1)[k(2k+1) +6 (k+1)] / 6=  (k+1)(k+2)(2k+3)/6
 	
 	(k+1)[ 2k²+k+6k+6)/6]/6 =  (k+1)(k+2)(2k+3)/6
-	
 
+	(k+1)[ 2k²+7k+6)/6]/6 =  (k+1)(k+2)(2k+3)/6
+
+	(k+1)(k+2)(22+3)/6 =  (k+1)(k+2)(2k+3)/6
+
+Pelo P.P.I.M, P(n) é satisfeita $\forall$ n $\in$ N* 
+- [ ] Prove com sequencia 
+- [ ] Prova com baskara
+
+b) prove por indução que p(n): 1+3+5...+(2n-1) = n², $\forall$ n > 1
+
+1) Base da indução: n = 1
+* 1 = n² -> 1 = 1² -> 1 = 1
+p(1): (2 * 1 - 1) = 1² <-> (2-1)= 1 <->1=1
+A base é satisfeita! 
+
+2) Hipótese da indução : n =k, k $\in$ N. 
+	P(k): 1+3+4+...+(2k-1) = k²; $\forall$ K $\in$ N*
+	É aceito como verdadeira
 	
+3) Tese: n=K+1; K$\in$ n*
+P(k+1): *1+3+5+...+(2k-1)* +(2k+1)= (k+1)²	, onde  *1+3+5+...+(2k-1)* é a hipótese da indução. Você substitui. 
+k² + (2k+1)= (k+1)²
+Pelo P.P.I.M, P(n) é satisfeita $\forall$ n $\in$ N.
+
+c) Prove por indução:
+p(n): 2 * 1 + 2 * 2 + 2 * 3 + ...+2n = n²+n, $\forall$ n > 1.
+d) Prova por indução
+p(n): 1²+3²+5²+...+(2n-1)² = n(2n-1) * (2n+1)/3; n>1
