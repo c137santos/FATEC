@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-20 (8ª aula) - Indução matemática.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 498.5,
-    "collapsed": true
+    "width": 498.5
   },
   "right": {
     "id": "b297e8e6c155690d",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-20 (8ª aula) - Indução matemática.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-20 (8ª aula) - Indução matemática.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-20 (8ª aula) - Indução matemática.md"
+                "file": "Readme.md"
               }
             }
           },
@@ -160,10 +159,11 @@
   },
   "active": "2c3c2ed63227d261",
   "lastOpenFiles": [
+    "index.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-06 (7ª aula) - Endorrelação.md",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-20 (8ª aula) - Indução matemática.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-18 (2ª aula) - Básico de conjunto e lógica.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-22 (6ª aula) - Relações.md",
-    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-20 (8ª aula) - Indução matemática.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-15 (5ª aula) -  Operações reversíveis.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-09-01 (4ª aula) - Relações de implicância equivalência.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-08-25 ( 3ª aula ) - Condicional.md",
@@ -195,7 +195,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "FATEC/1º Semestre (2023.2)/IAL001 - Algoritmos/2023-08-14 (1ª aula) Plano de Aula.md",
-    "index.md",
     "FATEC/1º Semestre (2023.2)/API",
     "conflict-files-obsidian-git.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/Materiais de Estudo",
