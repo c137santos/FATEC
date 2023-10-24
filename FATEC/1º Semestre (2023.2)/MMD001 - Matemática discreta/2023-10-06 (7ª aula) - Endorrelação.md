@@ -14,21 +14,21 @@ Classicação de dados, semântica de sistema concorrente. "Endorrelação é um
 7. **Transitiva**: Relação entre elementos, para ver na matrix é complicado, no grafo lembra muito a soma de vetores.
 
 #### Fechos de uma endorrelação. 
-a) Reflexiva: ($\forall$ a $\in$ A ) (a R a) - Qualquer que seja o elemento 'a' que pertence ao conjunto 'A', esse se relacionará com ele mesmo. 
+a) **Reflexiva**: ($\forall$ a $\in$ A ) (a R a) - Qualquer que seja o elemento 'a' que pertence ao conjunto 'A', esse se relacionará com ele mesmo. 
 **Na matriz**: A diagonal principal só apresenta valores lógicos verdadeiros. 
 **No grafo**: Todo nó possui uma aresta(arco) que sai e volta nele mesmo. Lembra da dança do passarinho?
-ex: Seja a ={0,1,2,3,4} um conjunto que é R(A:=)
-R = {(0,0), (1,1), (2,2),(3,3),(4,4)}
+ex: Seja a ={0,1,2,3} um conjunto que é R(A:=)
+R = {(0,0), (1,1), (2,2),(3,3)}
 
-| A = | 0 | 1 | 2 | 3 | 4 |
-|---|---|---|---|---|---|
-| 0 | 1 | 0 | 0 | 0 | 0 |
-| 1 | 0 | 1 | 0 | 0 | 0 |
-| 2 | 0 | 0 | 1 | 0 | 0 |
-| 3 | 0 | 0 | 0 | 1 | 0 |
-| 4 | 0 | 0 | 0 | 0 | 1 |
+| A = | 0 | 1 | 2 | 3 |
+|---|---|---|---|---|
+| 0 | 1 | 0 | 0 | 0 |
+| 1 | 0 | 1 | 0 | 0 |
+| 2 | 0 | 0 | 1 | 0 |
+| 3 | 0 | 0 | 0 | 1 |
 
-![[Pasted image 20231019095521.png]]
+
+![[Pasted image 20231024094807.png]]
 
 Justifique porque uma matriz pode ser reflexiva e não simétrica, enquanto se ela for isomorfa, ela será reflexiva e simétrica. 
 
@@ -38,22 +38,41 @@ Justifique porque uma matriz pode ser reflexiva e não simétrica, enquanto se e
 
 Assim, uma matriz pode ser **reflexiva e não simétrica**, o que significa que todos os elementos da diagonal principal são não nulos, mas a igualdade das entradas opostas em relação à diagonal principal não é garantida. Por outro lado, se as relações são isomorfas, elas devem ser reflexivas e simétricas, o que implica que os elementos da diagonal principal devem ser não nulos e as entradas opostas em relação à diagonal principal devem ser iguais.
 
-EM REVISÃO
 
-b) Propriedade irreflexiva: ($\forall$ a $\in$ A)¬(a R a), qualquer que seja a partecente ao conjunto A, ele não vai se relacionar com ele mesmo. 
+b) **Propriedade irreflexiva**: ($\forall$ a $\in$ A)¬(a R a), qualquer que seja 'a' partecente ao conjunto 'A', ele não vai se relacionar com ele mesmo. 
 **Na Matriz**: A diagonal principal só apresenta valores lógicos falsos
 **No Grafo**: Em nenhum nó (nodo) a aresta que sai volta para si mesma. 
 ex: (A, $\emptyset$)
 ex: A ={0,1,2,3}
 
-- [ ] Adicione a matriz
-- [ ] Adicione o grafo 
+| A = | 0 | 1 | 2 | 3 |
+|---|---|---|---|---|
+| 0 | 0 | 0 | 1 | 0 | 
+| 1 | 0 | 0 | 0 | 1 | 
+| 2 | 1 | 0 | 0 | 0 | 
+| 3 | 0 | 1 | 0 | 0 | 
 
-- [ ] Justifique porque na irreflexíva de um conjunto vazioa pode haver valores verdadeiros fora da diagonal principal. 
+
+![[Pasted image 20231024094618.png]]
+
+- [ ] Justifique porque na irreflexíva de um conjunto vazio pode haver valores verdadeiros fora da diagonal principal. 
 
 Outro exemplos: 
 a.1) {0,1,2,3,4} Conjunto
  R- {(0,0),(0,1),(1,1), (2,2), (2,1), (3,3), (4,4)} - Isso representar uma matriz irreflexiva assimétrica. 
+
+| A = | 0 | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|---|
+| 0 | 0 | 1 | 0 | 0 | 0 |
+| 1 | 0 | 1 | 0 | 0 | 0 |
+| 2 | 0 | 1 | 0 | 1 | 0 |
+| 3 | 0 | 0 | 0 | 1 | 0 |
+| 4 | 0 | 0 | 0 | 0 | 1 |
+
+
+$$\begin{pmatrix} 0 & 1 & 0 & 0 & 0 \\ 3 & 4
+\end{pmatrix}$$
+
  - [ ] Insira a matriz desse exemplo
 - [ ] Insira o grafico desse exemplo
 a.2) r={(0,1), (2,1),(3,4)}
