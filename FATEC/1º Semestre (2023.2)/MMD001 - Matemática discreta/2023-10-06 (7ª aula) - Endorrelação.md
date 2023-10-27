@@ -61,19 +61,11 @@ Outro exemplos:
 a.1) {0,1,2,3,4} Conjunto
  R- {(0,0),(0,1),(1,1), (2,2), (2,1), (3,3), (4,4)} - Isso representar uma matriz irreflexiva assimétrica. 
 
-| A = | 0 | 1 | 2 | 3 | 4 |
-|---|---|---|---|---|---|
-| 0 | 0 | 1 | 0 | 0 | 0 |
-| 1 | 0 | 1 | 0 | 0 | 0 |
-| 2 | 0 | 1 | 0 | 1 | 0 |
-| 3 | 0 | 0 | 0 | 1 | 0 |
-| 4 | 0 | 0 | 0 | 0 | 1 |
 
 
-$$\begin{pmatrix} 0 & 1 & 0 & 0 & 0 \\ 3 & 4
+$$ A =\begin{pmatrix} R & 0 & 1 & 2 & 3 & 4 \\ 0 & 0 & 1 & 0 & 0 & 0 \\ 1 & 0 & 1 & 0 & 0 & 0 \\ 2 & 0 & 1 & 0 & 1 & 0 \\ 3 & 0 & 0 & 0 & 1 & 0  \\ 4 & 0 & 0 & 0 & 0 & 1 
 \end{pmatrix}$$
 
- - [ ] Insira a matriz desse exemplo
 - [ ] Insira o grafico desse exemplo
 a.2) r={(0,1), (2,1),(3,4)}
 - [ ] Insira a matriz desse exemplo
