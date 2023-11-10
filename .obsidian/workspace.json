@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-27.md",
+                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-06 (7ª aula) - Endorrelação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-27.md",
+                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-06 (7ª aula) - Endorrelação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-27.md"
+                "file": "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-06 (7ª aula) - Endorrelação.md"
               }
             }
           },
@@ -171,12 +170,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1d686c9d6833970b",
+  "active": "29f274b8f3c830d0",
   "lastOpenFiles": [
+    "Pasted image 20231030094219.png",
+    "Pasted image 20231030094109.png",
+    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-27.md",
     "Pasted image 20231027193448.png",
     "Pasted image 20231027192756.png",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-06 (7ª aula) - Endorrelação.md",
-    "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-27.md",
     "Sem título.md",
     "Pasted image 20231024094807.png",
     "Pasted image 20231024094618.png",
@@ -198,8 +199,6 @@
     "Untitled.md",
     "Sem título.canvas",
     "imgs/Pasted image 20230901211618.png",
-    "imgs/Pasted image 20231019095521.png",
-    "imgs/Pasted image 20231019094154.png",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/PROVA.md",
     "FATEC/1º Semestre (2023.2)/IAC001 - Arquitetura e Organização de Computadores/2023-09-28 (6º aula) Construção de Backlog.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/Untitled.md",

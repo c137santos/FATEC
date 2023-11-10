@@ -1,4 +1,4 @@
-#fecho #endorrelação #conjunto #grafo 
+#fecho #endorrelaçao #conjunto #grafo 
 ### Endorrelação 
 Classicação de dados, semântica de sistema concorrente. "Endorrelação é uma 'operação' interna de conjuntos". R: A->A. Portanto, são endorrelações de um conjunto A pode ser representada como (A,R). Assim como o conjunto A tem as seguintes enrorrelações (N,<), (Z,<), (Q,=), (P(A)<C). A letra 'R' representa a relação.
 
@@ -66,10 +66,25 @@ a.1) {0,1,2,3,4} Conjunto
 $$ A =\begin{pmatrix} R & 0 & 1 & 2 & 3 & 4 \\ 0 & 0 & 1 & 0 & 0 & 0 \\ 1 & 0 & 1 & 0 & 0 & 0 \\ 2 & 0 & 1 & 0 & 1 & 0 \\ 3 & 0 & 0 & 0 & 1 & 0  \\ 4 & 0 & 0 & 0 & 0 & 1 
 \end{pmatrix}$$
 
-- [ ] Insira o grafico desse exemplo
+![[Pasted image 20231030094109.png]]
+
 a.2) r={(0,1), (2,1),(3,4)}
-- [ ] Insira a matriz desse exemplo
-- [ ] Insira o grafico desse exemplo
+
+
+$$\
+A = \begin{pmatrix}
+R & 0 & 1 & 2 & 3 & 4 \\
+0 & 0 & 1 & 0 & 0 & 0 \\
+1 & 0 & 0 & 0 & 0 & 0 \\
+2 & 0 & 1 & 0 & 0 & 0 \\
+3 & 0 & 0 & 0 & 0 & 1 \\
+4 & 0 & 0 & 0 & 0 & 0
+\end{pmatrix}
+\
+$$
+
+
+![[Pasted image 20231030094219.png]]
 
 c) Propriedade simetrica: ($\forall$ a $\in$ A)($\forall$ b $\in$ A)(aRb -> bRa)
 Como se fosse dobrar o papel e ele imprimisse dos dois lados. 
@@ -78,7 +93,16 @@ Como se fosse dobrar o papel e ele imprimisse dos dois lados.
 ex: (A; $\emptyset$ ) ou (A; =)
 ex: A ={a,e,i,o,u}
 R: {(a,e); (a,i); (e;e), (e;a);(i,a),(i,i)}
-- [ ] Insira essa matriz de forma a representar simetria.
+$$ 
+A = \begin{pmatrix}
+R & a & e & i & o & u \\
+a & 0 & 1 & 1 & 0 & 0 \\
+e & 1 & 1 & 0 & 0 & 0 \\
+i & 1 & 0 & 1 & 0 & 0 \\
+o & 0 & 0 & 0 & 0 & 0 \\  
+u & 0 & 0 & 0 & 0 & 0\end{pmatrix}
+$$
+
 - [ ] Insira um grafo de forma a representar esse exemplo. 
 
 c) Assimétrica: ($\forall$ a $\in$ A ) ($\forall$b$\in$A )¬ (aRb -> bRa)
