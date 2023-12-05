@@ -5,15 +5,14 @@ Isso significa que a condição de duas proposições p e q.
 "p $\rightarrow$ q"
 Lê-se: "Se p então q"
 Reflete a noção de partir de uma premissa verdadeira a conclusão verdadeira. "Para p $\rightarrow$ q seja verdadeira"
-Também reflete que partir de uma permissa falsa $\forall$ é verdadeira. O que significa que a premissa falsa, de uma conclusão falsa, torna verdadeiro. Isso é válido, isso é aceito. 
-Isso porque a partir de uma premissa falsa, uma conclusão verdadeira, não deixa que a conclusão seja verdadeira.
-Uma premissa falta, com conclusão falsa, não é possível determinar se a situação é falsa ou verdadeira, pois a única condição que torna, com certeza, uma afirmação falsa, é aquela que parte da verdadeira.
+Também reflete que partir de uma permissa falsa $\forall$, todas as conclusões são verdadeiras.  Premissas falsas geram conclusões falsas, porém, são consideradas verdadeiras. Isso é válido, isso é aceito.
+Isso por conta de ume regra de exclusão, visto que uma premissa falsa, tem conclusão impossível de determinar com certeza se é falsa ou verdadeira, pois a única condição que torna, com certeza, uma afirmação falsa, é aquela que parte da verdadeira.
 
 No estudo de condicional temos os seguintes simbolos: 
 $\land$  "And" ou "e", onde ambas preposições precisam ser verdadeira para que a conclusão seja verdadeira. 
 $\vee$ "or", || ou "ou", onde qualquer elementos verdadeiro torna a conclusão verdadeira. 
 
-p  | ~P | p -> q
+p  | q | p -> q
 --------- | ----|--
 V | V | V
 V | F | F
@@ -25,7 +24,7 @@ P  | Q | P -> Q | P $\land$ Q | P $\vee$ Q
 V | V | V | V | V |
 V | F | F | F | V |
 F | V | V | F | V |
-F | F | V | V | F |
+F | F | V | F | F |
 
 
 a) V( p->q) = V e V(p$\land$q) = F
