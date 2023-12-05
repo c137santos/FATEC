@@ -1,4 +1,4 @@
-#fecho #endorrelaçao #conjunto #grafo 
+#fecho  #conjunto #grafo 
 ### Endorrelação 
 Classicação de dados, semântica de sistema concorrente. "Endorrelação é uma 'operação' interna de conjuntos". R: A->A. Portanto, são endorrelações de um conjunto A pode ser representada como (A,R). Assim como o conjunto A tem as seguintes enrorrelações (N,<), (Z,<), (Q,=), (P(A)<C). A letra 'R' representa a relação.
 

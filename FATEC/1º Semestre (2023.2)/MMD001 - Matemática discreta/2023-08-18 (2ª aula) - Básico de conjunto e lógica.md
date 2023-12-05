@@ -39,11 +39,9 @@ a $\in$ B $\land$ a $\in$ A
 i $\in$ B $\land$ a $\in$ A
 u $\in$ B $\land$ a $\in$ A  , então B $\subset$ A. Então B está contido em A. B é um conjunto próprio de A.
 
+Se por acaso B = {a,u}, então não havia subconjunto de A $\nsubseteq$  B
 e $\notin$ B $\land$ e $\in$ A
-o $\notin$ B $\land$ e $\in$ A, então A $\supset$ B, A não é subconjunto do conjunto B, porque pelo menos um elemento de A não está presente em B.
-
-B $\nsubseteq$ A, porque $\exists$ 6**∈**B e 6∉A
-B não está contido em A, porque 6 pertence a B e não pertence a A. 
+o $\notin$ B $\land$ e $\in$ A, então A $\nsubseteq$ B, A não é subconjunto do conjunto B, porque pelo menos um elemento de A não está presente em B.
 
 ##### Ponto importante:
 A notação correta pode ser $\subseteq$. Não apenas o $\subset$, esse sem underline. 
@@ -73,9 +71,9 @@ Os conjuntos podem ser Reais, Naturais, Inteiro, Racionais, Irracionais e comple
 ### Exercícios
 **1 - Descreva de forma alternativa (usando outra forma de notação) e diga se é finito ou infinito. Se possível, dê sua cardinalidade.**
 a) Todos os numeros inteiros maiores que 10. 
-R: infinitos A = {X ∈ Z | x > 10 }
+R: infinitos A = {X ∈ N | x > 10 }
 
-b) {1,3,4,5,...}. 
+b) {1,3,5,...}. 
 R: b = {x | x é um número ímpar} Infinito pela representação por compreensão. Conjunto de todos os elementos x, tal que x é um número ímpar
 
 c) Todos os países do mundo
