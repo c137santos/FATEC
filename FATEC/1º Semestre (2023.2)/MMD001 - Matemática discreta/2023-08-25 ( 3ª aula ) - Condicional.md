@@ -33,6 +33,7 @@ b) V( p->q ) = V e V(p)
 	V(p)= F V(q)=F
 
 
+
 #### Bicondicional
 
 Seja p e q proposições e : p <-> q 
