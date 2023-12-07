@@ -99,7 +99,7 @@ Grafo: se for endorrelação, há pelo menos uma aresta partindo de um nó, pode
 
 #### Monomorfismo
 Somente se são total e injetora. 
-Um monomorfismo, em teoria das categorias, é um tipo de morfismo que é tanto uma relação total (total function) quanto uma relação injetora (injective function). Portanto, um monomorfismo só existe se ele for total e injetivo. Aqui está uma tabela que representa essa propriedade:
+Um monomorfismo, em teoria das categorias, é um tipo de morfismo que é tanto uma relação total (total function) quanto uma relação injetora (injective function). Aqui está uma tabela que representa essa propriedade:
 #### Epimorfismo
 Se somente se for sobrejetora e funcional. 
 #### Isomorfismo
