@@ -20,7 +20,7 @@ No caso do conjunto A = {0, 1}, uma relação binária simples seria uma relaç�
 
 #### Endorrelação
 
-Uma relação interna de conjunto, ou seja, o conjunto do contradomínio é o mesmo contradomínio. Trazendo a relação de equivalência.
+Uma relação interna de conjunto, ou seja, o conjunto do domínio é o mesmo de contradomínio. Trazendo a relação de equivalência.
 Notação: R C AxA, R C A², <a,a> $\in$ R.   
 Toda endorelação R:  A -> A, pode ser representada com um grafo. 
 
@@ -28,13 +28,13 @@ Uma endorrelação, também conhecida como relação em um único conjunto, é u
 
 Considere o conjunto A = {1, 2, 3, 4, 5}. Vamos definir uma endorrelação R em A da seguinte forma:
 
-R = {(1, 2), (2, 3), (3, 1), (4, 4), (5, 5)}
+R = {(1, 1), (2, 2), (3, 3), (4, 4), (5, 5)}
 
 | Elemento | Relação  |
 |----------|----------|
-| 1        |    2     |
-| 2        |    3     |
-| 3        |    1     |
+| 1        |    1  |
+| 2        |    2     |
+| 3        |    3     |
 | 4        |    4     |
 | 5        |    5     |
 
