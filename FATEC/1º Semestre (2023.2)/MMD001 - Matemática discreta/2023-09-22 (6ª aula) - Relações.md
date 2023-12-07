@@ -53,7 +53,8 @@ b; =, busque a verdade, isso estabelece uma endorelação.
 Significa inversão, ou troca dos componentes do par ordenado. 
 
 **FUNCIONAL** : seja R: A -> B será funcional se cada elemento da origem está associada a no máximo um elemento do destino. Na matriz, no máximo um valor lógico por linha. 
-Nesses casos não há grafo, só se for endorelação. Uma relação R: A -> B é considerada funcional quando cada elemento da origem (conjunto A) está associado a, no máximo, um elemento do destino (conjunto B). Isso significa que não há múltiplas associações da origem para o mesmo destino. Em termos de representação matricial, uma relação funcional é caracterizada pelo fato de que há, no máximo, um valor lógico verdadeiro (geralmente representado por "1") por linha da matriz.
+Nesses casos não há grafo, só se for endorelação. 
+Isso significa que não há múltiplas associações da origem para o mesmo destino. Em termos de representação matricial, uma relação funcional é caracterizada pelo fato de que há, no máximo, um valor lógico verdadeiro (geralmente representado por "1") por linha da matriz.
 
 |   | B1 | B2 | B3 |
 |---|----|----|----|
@@ -63,7 +64,7 @@ Nesses casos não há grafo, só se for endorelação. Uma relação R: A -> B �
 | A4| 0  | 0  | 0  |
 
 
-**INJETORA**: Seja R: A -> B, uma relação, então R será injetura se cada elemento de B está associado a no máximo um elemento de A. Na matriz, há no máximo um valor lógico verdadeiro por COLUNA. Considerada injetora quando cada elemento de B está associado a, no máximo, um elemento de A. Isso significa que não há elementos em B que tenham mais de uma origem em A
+**INJETORA**: Seja R: A -> B, uma relação, então R será injetura se cada elemento de B está associado a no máximo um elemento de A. Na matriz, há no máximo um valor lógico verdadeiro por COLUNA. Isso significa que não há elementos em B que tenham mais de uma origem em A
 
 |   | A1 | A2 | A3 |
 |---|----|----|----|
@@ -75,8 +76,7 @@ Nesses casos não há grafo, só se for endorelação. Uma relação R: A -> B �
 
 Portanto, funcional e injetora são conceitos duais, não são complementares. 
 
-**RELAÇÃO TOTAL**: seja R: A -> B, uma relação, então R será total se cada elemento de A está associado a pelo menos um elemento de B. Na matriz há pelo menos um valor lógico verdadeiro por linha. 
-Uma relação total entre dois conjuntos A e B ocorre quando cada elemento de A está associado a pelo menos um elemento de B. Isso significa que não há elementos em A que não tenham uma correspondência em B.
+**RELAÇÃO TOTAL**: seja R: A -> B, uma relação, então R será total se cada elemento de A está associado a pelo menos um elemento de B. Na matriz há pelo menos um valor lógico verdadeiro por linha. Isso significa que não há elementos em A que não tenham uma correspondência em B.
 
 |   | B1 | B2 | B3 |
 |---|----|----|----|
