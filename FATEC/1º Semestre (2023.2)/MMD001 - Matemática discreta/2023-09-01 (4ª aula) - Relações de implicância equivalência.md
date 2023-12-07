@@ -5,12 +5,13 @@ Formulas lógicas são bases na definição induvitas, ou seja, quando uma sente
 
 ### Implicância ($\Rightarrow$) 
 Tem haver com o conceito de teorema [o que é isso?](https://piazza.com/class_profile/get_resource/h9vrn1qe5ig6i/hcn7d17z6vf4cq) , só existe se for em uma relação de implicância, o teorema não ocorre em caso de a hipótese ser verdadeira e a tese falsa. Uma relação implica logicamente na outra se a operação final for tautológica. Uma tautologica é o resultado verdadeiro em todas as afirmativas. 
+Portanto, relação de implicância são aquelas tem possuem resultados tautológicos.
 #### Operador: "condicional ($\rightarrow$)"
 Dada duas proposições p e q. Então, para estabalecer uma relação de implicância, usaremos do operador condicional. Somente o operador condicional que pode estabelecer implicância, portanto, proposições verdadeiras podem ser verdadeiras ou falsas, e todas proposições falsas geram conclusões verdadeiras. 
 
 p $\Rightarrow$ q (Lê-se: "p implica logicamente em q"), se e somente se p -> q for uma tautologia. p = q.
-ex: adição: p $\Rightarrow$ p $\vee$ q
-simplificação: p $\land$ q $\Rightarrow$ p
+ex: adição: p $\rightarrow$ p $\vee$ q
+simplificação: p $\land$ q $\rightarrow$ p
 
 P | Q | P $\vee$ Q | P $\rightarrow$  P $\vee$ Q | P $\land$ Q | P $\land$ Q $\rightarrow$ P
 --|--|---|----|---|---
