@@ -1,4 +1,4 @@
-### Operações reversiveise e não-reversíveis. 
+### Operações reversiveis e não-reversíveis. 
 Na matemática discreta contém a algebra de conjunto, onde existem operações com conjuntos. As operações sobre conjuntos são classificadas em reversíveis e não-reversíveis, embora as não-reversíveis sejam as mais usuais, as reversíveis são especialmente importante para computação e informática, como será destado adiante. As seguintes operações são definidas sobre conjuntos:
 Entende-se como operação reversível aquela que a partir dos resultados, pode-se recuperar os operandos originais. 
 a) Não-reversíveis
