@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 498.5
+    "width": 498.5,
+    "collapsed": true
   },
   "right": {
     "id": "b297e8e6c155690d",
@@ -157,7 +158,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "87e8ff4a2d2a7751",
+  "active": "2c3c2ed63227d261",
   "lastOpenFiles": [
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-10-27.md",
     "FATEC/1º Semestre (2023.2)/MMD001 - Matemática discreta/2023-11-10.md",

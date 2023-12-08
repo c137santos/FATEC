@@ -9,7 +9,7 @@ Estabelece a base, se ela for verdadeira, vai para o seguinte, assume que a hip�
 2) S(0)
 3) S(S(0))
 
-a) Primeiro princípio da indução: Seja Pn uma proposição relativa aos números naturais. Suponha que:
+a) Primeiro princípio da indução: Seja P(n) uma proposição relativa aos números naturais. Suponha que:
 a) P(1) é verdadeiro
 b) P(n) como hipótese é aceita verdadeira
 c) se P(n+1) é verdadeira, então P(n) é verdadeiro, $\forall$ n $\in$ N, qualquer seja n pertecente aos naturais.
