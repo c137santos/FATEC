@@ -43,9 +43,6 @@ P(n): 1²+2²+...+n² = n(n+1) * (2n+1)/2 ; n>1
 	(k+1)(k+2)(22+3)/6 =  (k+1)(k+2)(2k+3)/6
 
 Pelo P.P.I.M, P(n) é satisfeita $\forall$ n $\in$ N* 
-- [ ] Prove com sequencia 
-- [ ] Prova com baskara
-
 b) prove por indução que p(n): 1+3+5...+(2n-1) = n², $\forall$ n > 1
 
 1) Base da indução: n = 1
